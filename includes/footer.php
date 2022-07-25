@@ -21,7 +21,7 @@
 
 
                                         <div class="text">
-                                            <p>We partner with over 320 amazing projects worldwide, and have given over $150 million in cash and product grants to other groups since 2011. We also operate our own dynamic suite of Signature Programs, million in cash and product grants to others</p>
+                                            <p>We believe in serving the humanity regardless of the caste, color, language and religion. We take our mission our duty</p>
                                         </div>
 
 
@@ -43,33 +43,21 @@
                                         <div class="widget-content">
                                             <ul class="list">
                                                 <li>
-                                                    <a href="about.html">About Our Humanity</a>
+                                                    <a href="contcat.php">contact</a>
                                                 </li>
 
 
                                                 <li>
-                                                    <a href="cause-1.html">Recent Causes</a>
+                                                    <a href="about.php">About</a>
                                                 </li>
 
 
                                                 <li>
-                                                    <a href="volunteer.html">Our Volunteers</a>
+                                                    <a href="ourTeam.html">Our Team</a>
                                                 </li>
 
 
-                                                <li>
-                                                    <a href="#">Our Donators</a>
-                                                </li>
-
-
-                                                <li>
-                                                    <a href="#">Sponsers</a>
-                                                </li>
-
-
-                                                <li>
-                                                    <a href="event-1.html">Upcoming Events</a>
-                                                </li>
+                                               
                                             </ul>
                                         </div>
                                     </div>
@@ -84,43 +72,7 @@
 
 
                                 <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="footer-widget post-column">
-                                        <div class="section-title">
-                                            <h4>Recent Post</h4>
-                                        </div>
-
-
-                                        <div class="post-list">
-                                            <div class="post">
-                                                <a href="#">
-                                                <h5>Car show event photos 2015</h5></a>
-
-                                                <div class="post-info">
-                                                    March 14, 2017
-                                                </div>
-                                            </div>
-
-
-                                            <div class="post">
-                                                <a href="#">
-                                                <h5>Hope Kids Holiday Party</h5></a>
-
-                                                <div class="post-info">
-                                                    February 21, 2017
-                                                </div>
-                                            </div>
-
-
-                                            <div class="post">
-                                                <a href="#">
-                                                <h5>humanity Bikini Car wash photos</h5></a>
-
-                                                <div class="post-info">
-                                                    January 15, 2017
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                 
                                 </div>
                                 <!--Footer Column-->
 
@@ -133,15 +85,13 @@
 
 
                                         <ul class="contact-info">
-                                            <li><i class="icon-arrows"></i><span>Address:</span> Park Drive, Varick Str<br>
-                                            New York, NY 10012, USA</li>
+                                           
 
 
-                                            <li><i class="icon-phone"></i> <span>Phone:</span> (123) 0200 12345 &<br>
-                                            1800-45-678-9012</li>
+                                            <li><i class="icon-phone"></i> <span>Phone:</span> +92-302-28715563</li>
 
 
-                                            <li><i class="icon-back"></i><span>Email:</span> ailus@Humanity.com</li>
+                                            <li><i class="icon-back"></i><span>Email:</span>  phwfoundation2011@gmail.com</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -156,14 +106,12 @@
         <section class="footer-bottom">
             <div class="container">
                 <div class="pull-left copy-text">
-                    <p><a href="#">Copyrights © 2017</a> All Rights Reserved. Powered by <a href="#">Humanity</a></p>
+                    <p><a href="#">Copyrights © 2022</a> All Rights Reserved. Powered by <a href="#">Public Health Welfare</a></p>
                 </div>
                 <!-- /.pull-right -->
 
 
-                <div class="pull-right get-text">
-                    <a href="#">Join Us Now!</a>
-                </div>
+               
                 <!-- /.pull-left -->
             </div>
             <!-- /.container -->
