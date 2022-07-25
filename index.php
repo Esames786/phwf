@@ -16,7 +16,7 @@
 
 <body>
     <div class="boxed_wrapper">
-     <?php include '../include/header.php' ?>
+     <?php include './includes/header.php' ?>
         <!--Start rev slider wrapper-->
 
         <section class="rev_slider_wrapper">
@@ -1296,7 +1296,7 @@
             </div>
         </section>
 
-        <?php include '../include/footer.php' ?>
+        <?php include '../includes/footer.php' ?>
 
        
         <!-- Scroll Top  -->
