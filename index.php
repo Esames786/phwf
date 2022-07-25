@@ -143,7 +143,7 @@
        
 
 
-        <section class="about sec-padd2">
+        <section class="about sec-padd1">
             <div class="container">
                 <div class="section-title center">
                     <h2>About <span class="thm-color">PHW Foundation</span></h2>
