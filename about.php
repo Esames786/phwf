@@ -55,60 +55,29 @@
         <section class="about sec-padd2 style-2">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-sm-12 left-column">
-                        <div class="row padd-bottom-30">
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="img-box"><img alt="" src="images/resource/about6.jpg">
-                                </div>
+                 
 
 
-                                <div class="content">
-                                    <p>Idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actually teachings of the great explorer of the truth when you give to Our humanity.</p>
-                                </div>
-                            </div>
-
-
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="img-box"><img alt="" src="images/resource/about7.jpg">
-                                </div>
-
-
-                                <div class="content">
-                                    <p>When you give to Our humanity, you know your donation is making a difference. Whether you supporting one of our Signature Programs or our carefully curated list of Gifts That Give More, our professional staff.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="col-md-6 col-sm-6 col-xs-12">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="content">
+                        <h3 class="thm-color">OUR FOREMOST MISSION</h3>
+
                             <div class="text">
-                                <p>When you give to Our humanity, you know your donation is making a difference. Whether you are supporting one of our Signature Programs or our carefully curated list of Gifts That Give More, our professional staff works hard every day<br>
-                                to ensure every dolar has impact for the cause of your choice explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system.</p>
+                                <p>“We believe in serving the humanity regardless of the caste, color, language and religion. We take our mission our duty.”</p>
                             </div>
 
 
-                            <h3 class="thm-color">Years of Experience</h3>
+                            
 
 
                             <div class="text">
-                                <p>We partner with over 320 amazing projects worldwide, and have given over $150 million in cash and product grants to other groups since 2011. We also operate our own dynamic suite of Signature Programs.</p>
+                                <p>We cannot deny that the need of social organization is very important in this fast world because no one has time to serve the humanity. Keeping in the view it was decided to start the Public Help Welfare organization. The organization was started in the city of lights Karachi on 25 June 2014. The founder of this organization is Mr. Salman Jawaid Memon. The main purpose of the organization is to help the poor people in need financially or physically. We are focusing on the tasks related to free food to poor people, free education to the deserving students, to provide health facilities to needy, pure drinking water and also the help of animals that cannot speak for themselves.</p>
                             </div>
 
 
-                            <ul>
-                                <li><i class="fa fa-check"></i>This mistaken idea of denouncing pleasure</li>
-
-
-                                <li><i class="fa fa-check"></i>Master-builder of human happiness</li>
-
-
-                                <li><i class="fa fa-check"></i>Occasionally circumstances occur in toil</li>
-
-
-                                <li><i class="fa fa-check"></i>Undertakes laborious physical exercise</li>
-                            </ul>
+                            <div  class="text">
+                                <p>In the era of hard times as number of crises are here in our country, we aim to mitigate the basic problems that are faced by the neglected people of the society. We will only focus to become the helping hand of the poor people and let them enjoy the life as we do.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
