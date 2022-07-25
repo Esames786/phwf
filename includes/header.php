@@ -83,34 +83,7 @@
                     </div>
 
 
-                    <div class="right-column">
-                        <div class="nav_side_content">
-                            <ul class="social-icon">
-                                <li>
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                </li>
-
-
-                                <li>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                </li>
-
-
-                                <li>
-                                    <a href="#"><i class="fa fa-google-plus"></i></a>
-                                </li>
-                            </ul>
-
-
-                            <div class="search_option">
-                                <button aria-expanded="false" aria-haspopup="true" class="search tran3s dropdown-toggle color1_bg" data-toggle="dropdown" id="searchDropdown"><i aria-hidden="true" class="fa fa-search"></i></button>
-
-                                <form action="#" aria-labelledby="searchDropdown" class="dropdown-menu">
-                                    <input placeholder="Search..." type="text"> <button><i aria-hidden="true" class="fa fa-search"></i></button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
+                   
                 </div>
             </div>
         </section>
