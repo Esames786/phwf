@@ -130,98 +130,13 @@
         <section class="about-2 sec-padd3">
             <div class="container">
                 <div class="section-title center">
-                    <h2>Welcome to <span class="thm-color">Humanity</span></h2>
+                    <h2>Welcome to <span class="thm-color">Public Help Welfare</span></h2>
 
 
-                    <p>We are humanity/ non-profit/ fundraising/ NGO organizations. Our humanity activities are taken place around the world,let<br>
-                    contribute to them with us by your hand to be a better life.</p>
+                    <p>We are all the human beings and have created for the purpose to help each other’s.  It is very famous proverbs that GOD HELPS THOSE WHO HELP THEMSELVES. Those who take decision of doing any good deed Almighty Allah helps them in a way that they cannot even imagine and beyond their thinking. We must all think only about the well-being of the society and solve the problems of society and God will care of ours.</p>                        </div>
+
                 </div>
 
-
-                <div class="row">
-                    <article class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="single-item">
-                            <div class="img-box"><img alt="" src="images/resource/about1.jpg">
-                            </div>
-
-
-                            <div class="content">
-                                <div class="clearfix">
-                                    <div class="icon_box">
-                                        <span class="icon-people"></span>
-                                    </div>
-
-
-                                    <div class="text">
-                                        <h4>Support Peoples</h4>
-
-
-                                        <p>Be Good to People</p>
-                                    </div>
-                                </div>
-
-
-                                <p>All children are our future. They all deserve our love. Join us to feed, teach, protect, and nurture children in America...</p>
-                            </div>
-                        </div>
-                    </article>
-
-
-                    <article class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="single-item">
-                            <div class="img-box"><img alt="" src="images/resource/about2.jpg">
-                            </div>
-
-
-                            <div class="content">
-                                <div class="clearfix">
-                                    <div class="icon_box">
-                                        <span class="icon-animals"></span>
-                                    </div>
-
-
-                                    <div class="text">
-                                        <h4>Save Wild Animals</h4>
-
-
-                                        <p>Live and Let Live</p>
-                                    </div>
-                                </div>
-
-
-                                <p>Who loves or pursues or desires to obtain pain of itself, because it is all pain, but occasionally circumstances occur which toil...</p>
-                            </div>
-                        </div>
-                    </article>
-
-
-                    <article class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="single-item">
-                            <div class="img-box"><img alt="" src="images/resource/about3.jpg">
-                            </div>
-
-
-                            <div class="content">
-                                <div class="clearfix">
-                                    <div class="icon_box">
-                                        <span class="icon-nature"></span>
-                                    </div>
-
-
-                                    <div class="text">
-                                        <h4>Protect Our Planet</h4>
-
-
-                                        <p>Stop Destroying Our Planet</p>
-                                    </div>
-                                </div>
-
-
-                                <p>Pleasure and praising pain was born and I will give you a complete account of the ut system expound the actual teachings...</p>
-                            </div>
-                        </div>
-                    </article>
-                </div>
             </div>
         </section>
 
