@@ -102,7 +102,7 @@
                         </div>
                     </figure>
                     <div class="author-info center">
-                        <a href="#"><h4>Ahsan</h4></a>
+                        <a href="#"><h4>GENERAL SECRETERY</h4></a>
                         <p>GENERAL SECRETERY</p>
                     </div>
                         
@@ -124,7 +124,7 @@
                         </div>
                     </figure>
                     <div class="author-info center">
-                        <a href="#"><h4>Bilal</h4></a>
+                        <a href="#"><h4>FINACE SECRETERY</h4></a>
                         <p>FINACE SECRETERY </p>
                     </div>
                         
