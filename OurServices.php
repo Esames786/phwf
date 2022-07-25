@@ -64,7 +64,7 @@
         <div class="section-title">
                         <h2>OUR <span class="thm-color">SERVICES </span></h2>
                     </div>
-            <article class="item col-md-8 col-sm-12 col-xs-12">
+            <article class="item col-md-12 col-sm-12 col-xs-12">
                 <figure class="img-box">
                     <img style="width:100%;height:40rem" src="images/cause/1.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
@@ -81,7 +81,7 @@
                 </div>                        
                         
             </article>
-            <article class="item col-md-8 col-sm-12 col-xs-12">
+            <article class="item col-md-12 col-sm-12 col-xs-12">
                 <figure class="img-box">
                     <img style="width:100%;height:40rem" src="images/cause/2.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
@@ -100,7 +100,7 @@
                 </div>                        
                         
             </article>
-            <article class="item col-md-8 col-sm-12 col-xs-12">
+            <article class="item col-md-12 col-sm-12 col-xs-12">
                 <figure class="img-box">
                     <img style="width:100%;height:40rem" src="images/cause/3.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
@@ -118,7 +118,7 @@
                 </div>                        
                         
             </article>
-            <article class="item col-md-8 col-sm-12 col-xs-12">
+            <article class="item col-md-12 col-sm-12 col-xs-12">
                 <figure class="img-box">
                     <img style="width:100%;height:40rem" src="images/cause/4.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
