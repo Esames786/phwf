@@ -12,111 +12,18 @@
                         </div>
 
 
-                        <h4>How much would you like to donate:</h4>
-
+                        <h4>At initial stage we are taking donations in one bank that is ALFALAH BANK. We request all to join hands with the Public Help Welfare for the noble cause.</h4>
+  
 
                         <form action="#" class="donate-form default-form">
-                            <ul class="chicklet-list clearfix">
-                                <li><input id="donate-amount-1" name="donate-amount" type="radio"> <label data-amount="1000" for="donate-amount-1">$1000</label></li>
+                         
 
 
-                                <li><input checked="checked" id="donate-amount-2" name="donate-amount" type="radio"> <label data-amount="2000" for="donate-amount-2">$2000</label></li>
+                            <h3>You can send your donations by the below mentioned bank and also inform us that what type of particular donation you are sending. </h3>
+                            <h3>Bank Details: Bank Alfalah</h3>
+                            <h3>0092-73783682638-2</h3>
 
-
-                                <li><input id="donate-amount-3" name="donate-amount" type="radio"> <label data-amount="3000" for="donate-amount-3">$3000</label></li>
-
-
-                                <li><input id="donate-amount-4" name="donate-amount" type="radio"> <label data-amount="4000" for="donate-amount-4">$4000</label></li>
-
-
-                                <li><input id="donate-amount-5" name="donate-amount" type="radio"> <label data-amount="5000" for="donate-amount-5">$5000</label></li>
-
-
-                                <li class="other-amount">
-                                    <div class="input-container" data-message="Every dollar you donate helps end hunger.">
-                                        <span>Or</span><input id="other-amount" placeholder="Other Amount" type="text">
-                                    </div>
-                                </li>
-                            </ul>
-
-
-                            <h3>Donor Information</h3>
-
-
-                            <div class="form-bg">
-                                <div class="row clearfix">
-                                    <div class="col-md-6 col-sm-6 col-xs-12">
-                                        <div class="form-group">
-                                            <p>Your Name*</p>
-                                            <input name="fname" placeholder="" type="text">
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6 col-sm-6 col-xs-12">
-                                        <div class="form-group">
-                                            <p>Email*</p>
-                                            <input name="fname" placeholder="" type="text">
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6 col-sm-6 col-xs-12">
-                                        <div class="form-group">
-                                            <p>Address*</p>
-                                            <input name="fname" placeholder="" type="text">
-                                        </div>
-                                    </div>
-
-
-                                    <div class="col-md-6 col-sm-6 col-xs-12">
-                                        <div class="form-group">
-                                            <p>Phn Num*</p>
-                                            <input name="fname" placeholder="" type="text">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <ul class="payment-option">
-                                <li>
-                                    <h4>Choose your payment method:</h4>
-                                </li>
-
-
-                                <li>
-                                    <div class="checkbox">
-                                        <label><input name="pay-us" type="checkbox"> <span>Paypal</span></label>
-                                    </div>
-                                </li>
-
-
-                                <li>
-                                    <div class="checkbox">
-                                        <label><input name="pay-us" type="checkbox"> <span>Offline Donation</span></label>
-                                    </div>
-                                </li>
-
-
-                                <li>
-                                    <div class="checkbox">
-                                        <label><input name="pay-us" type="checkbox"> <span>Credit Card</span></label>
-                                    </div>
-                                </li>
-
-
-                                <li>
-                                    <div class="checkbox">
-                                        <label><input name="pay-us" type="checkbox"> <span>Debit Card</span></label>
-                                    </div>
-                                </li>
-                            </ul>
-
-
-                            <div class="center">
-                                <button class="thm-btn" type="submit">Donate Now</button>
-                            </div>
+                       
                         </form>
                     </div>
                 </div>
