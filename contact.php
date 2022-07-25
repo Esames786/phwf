@@ -39,7 +39,7 @@
         <div class="pull-left">
             <ul class="list-inline link-list">
                 <li>
-                    <a href="index-2.html">Home</a>
+                    <a href="index.php">Home</a>
                 </li>
                 <li>
                     <a href="#">Pages</a>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
 
-    <title>Public Help Welfare || About Us</title><!-- mobile responsive meta -->
+    <title>Public Help Welfare || Chairman Message</title><!-- mobile responsive meta -->
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
     <link href="css/style.css" rel="stylesheet">
@@ -20,7 +20,7 @@
         <div class="inner-banner has-base-color-overlay text-center" style="background: url(images/background/4.jpg);">
             <div class="container">
                 <div class="box">
-                    <h1>About Us</h1>
+                    <h1>Chairman Message</h1>
                 </div>
             </div>
         </div>
@@ -40,13 +40,13 @@
                         </li>
 
 
-                        <li>about us</li>
+                        <li>Chairman Message</li>
                     </ul>
                 </div>
 
 
                 <div class="pull-right">
-                    <a class="get-qoute" href="#"><i class="fa fa-arrow-circle-right"></i>Become a Volunteer</a>
+                    <a class="get-qoute" href="#"><i class="fa fa-arrow-circle-right"></i>Chairman Message</a>
                 </div>
             </div>
         </div>
@@ -61,27 +61,39 @@
                     <div class="col-md-8 col-sm-8 col-xs-12">
                         <div class="content">
                         <div class="section-title2">
-                        <h3>OUR FOREMOST MISSION</h3>
+                        <h3>Chairman Message</h3>
 </div>
 <br>
                             <div class="text">
-                                <p>“We believe in serving the humanity regardless of the caste, color, language and religion. We take our mission our duty.”</p>
+                                <p>It must be a PIC OF Founder with professional dress like three piece and tie.</p>
                             </div>
 
 
 <br>             
 <div class="section-title2">
-                            <h3>About Public Health Welfare</h3>
+                            <h3>WHO WE ARE?</h3>
 </div>
                             <br>
                             <div class="text">
-                                <p>We cannot deny that the need of social organization is very important in this fast world because no one has time to serve the humanity. Keeping in the view it was decided to start the Public Help Welfare organization. The organization was started in the city of lights Karachi on 25 June 2014. The founder of this organization is Mr. Salman Jawaid Memon. The main purpose of the organization is to help the poor people in need financially or physically. We are focusing on the tasks related to free food to poor people, free education to the deserving students, to provide health facilities to needy, pure drinking water and also the help of animals that cannot speak for themselves.</p>
+                              <p>It was established in 2014 by MR Salman JAwaid Memon , foreign qualified Bachelor and Master’s degree holder from Australia in  Pakistani port city of Karachi; The PHW is the organization that serves the humanity selflessly  day and night. Mr Salman himself monitors and performs the activities of the organization. </p>
                             </div>
 
+                            <div class="section-title2">
+                            <h3>By Founder</h3>
+</div>
+                            <br>
+                            <div class="text">
+<p>“With a mission to work as a non-political, non-governmental and non-profitable organization, we started our mission to serve the humanity by providing free education, free food, free health assistance and opportunities with the help of animals that can stand for themselves.”</p>
+                        </div>
+                        <br>
+                        <div class="text">
+<p>‘I strongly believe in protecting basic human rights without any discrimination of color, caste, and creed. My religion is to serve the humanity’. </p>
+                    </div>
+                        <br>
 
                             <div  class="text">
-                                <p>In the era of hard times as number of crises are here in our country, we aim to mitigate the basic problems that are faced by the neglected people of the society. We will only focus to become the helping hand of the poor people and let them enjoy the life as we do.</p>
-                            </div>
+<p>The Public Help Welfare headed by Mr. Salamn Jawaid Memon is a network of humanity services organizations working for the deliverance of better treatment and wellbeing of human beings as they desire. It is the long lasting mission. This organization will continue its efforts and hard work to serve the humanity till our team has life.</p>
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -89,158 +101,6 @@
         </section>
 
 
-        <section class="why-chooseus sec-padd-top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="item">
-                            <div class="inner-box">
-                                <!--icon-box-->
-
-
-                                <div class="icon_box">
-                                    <span class="icon-heart3"></span>
-                                </div>
-                                <a href="3.html">
-                                <h4>08 Years of Services</h4></a>
-                            </div>
-
-
-                            <div class="text">
-                                <p>We are providing services since 2004 and now we have eight years of services</p>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="item">
-                            <div class="inner-box">
-                                <!--icon-box-->
-
-
-                                <div class="icon_box">
-                                    <span class="icon-people-1"></span>
-                                </div>
-                                <a href="#">
-                                <h4>Good Will Volunteers</h4></a>
-                            </div>
-
-
-                            <div class="text">
-                                <p>Our Volunteers providing help to needy ones .We have a good Will Volunteers</p>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="item">
-                            <div class="inner-box">
-                                <!--icon-box-->
-
-
-                                <div class="icon_box">
-                                    <span class="icon-favorite"></span>
-                                </div>
-                                <a href="#">
-                                <h4>Most Trusted humanity</h4></a>
-                            </div>
-
-
-                            <div class="text">
-                                <p>People trust our services to the society. humanity Trusted us most</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-    
-
-
-        <section class="fact-counter fact-counter-1 sec-padd" style="background-image: url(images/background/5.jpg);">
-            <div class="container">
-                <div class="row clearfix">
-                    <div class="counter-outer clearfix">
-                        <!--Column-->
-
-
-                        <article class="column counter-column col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
-                            <div class="item">
-                                <div class="icon">
-                                    <i class="icon-nature-1"></i>
-                                </div>
-
-
-                                <div class="count-outer">
-                                    <span class="count-text" data-speed="3000" data-stop="8">0</span>+
-                                </div>
-
-
-                                <h4 class="counter-title">Year Of Experience</h4>
-                            </div>
-                        </article>
-                        <!--Column-->
-
-
-                        <article class="column counter-column col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
-                            <div class="item">
-                                <div class="icon">
-                                    <i class="icon-ribbon"></i>
-                                </div>
-
-
-                                <div class="count-outer">
-                                    <span class="count-text" data-speed="3000" data-stop="2345">0</span>
-                                </div>
-
-
-                                <h4 class="counter-title">Successfull Projects</h4>
-                            </div>
-                        </article>
-                        <!--Column-->
-
-
-                        <article class="column counter-column col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
-                            <div class="item">
-                                <div class="icon">
-                                    <i class="icon-people-1"></i>
-                                </div>
-
-
-                                <div class="count-outer">
-                                    <span class="count-text" data-speed="3000" data-stop="347">0</span>
-                                </div>
-
-
-                                <h4 class="counter-title">Team Members</h4>
-                            </div>
-                        </article>
-                        <!--Column-->
-
-
-                        <article class="column counter-column col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
-                            <div class="item">
-                                <div class="icon">
-                                    <i class="icon-shapes"></i>
-                                </div>
-
-
-                                <div class="count-outer">
-                                    <span class="count-text" data-speed="3000" data-stop="85">0</span>%
-                                </div>
-
-
-                                <h4 class="counter-title">Winning Awards</h4>
-                            </div>
-                        </article>
-                    </div>
-                </div>
-            </div>
-        </section>
 
 
       
