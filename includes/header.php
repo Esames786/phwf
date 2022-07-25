@@ -2,7 +2,7 @@
             <div class="container">
                 <div class="clearfix">
                     <div class="top-bar-text float_left">
-                        <button class="thm-btn donate-box-btn">donatesss</button>
+                        <button class="thm-btn donate-box-btn">Donate Here</button>
 
                         <p>No One Has Ever Become Poor By Giving!</p>
                     </div>
@@ -80,9 +80,7 @@
                               
 
 
-                                <li>
-                                    <a href="donateHere.php">Donate Here</a>
-                                </li>
+                               
                                
                                 
                                 <li>
