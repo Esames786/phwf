@@ -103,7 +103,7 @@
 
 
                             <div class="text">
-                                <p>We are providing services since 2004.</p>
+                                <p>We are providing services since 2004 and now we have eight years of services</p>
                             </div>
                         </div>
                     </div>
@@ -124,7 +124,7 @@
 
 
                             <div class="text">
-                                <p>Our Volunteers providing help to needy ones .</p>
+                                <p>Our Volunteers providing help to needy ones .We have a good Will Volunteers</p>
                             </div>
                         </div>
                     </div>
@@ -145,7 +145,7 @@
 
 
                             <div class="text">
-                                <p>People trust our services to the society</p>
+                                <p>People trust our services to the society. humanity Trusted us most</p>
                             </div>
                         </div>
                     </div>
