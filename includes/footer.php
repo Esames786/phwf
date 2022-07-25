@@ -43,7 +43,7 @@
                                         <div class="widget-content">
                                             <ul class="list">
                                                 <li>
-                                                    <a href="contcat.php">contact</a>
+                                                    <a href="index.php">Home</a>
                                                 </li>
 
 
@@ -51,10 +51,18 @@
                                                     <a href="about.php">About</a>
                                                 </li>
 
-
                                                 <li>
-                                                    <a href="ourTeam.html">Our Team</a>
+                                                <a href="chairmanMessage.php">Chairman Message</a>
                                                 </li>
+                                                <li>
+                                                <a href="publicMessage.php">Public Message</a>
+                                                </li>
+                                                <li>
+                                    <a href="OurServices.php">Our Services</a>
+                                      </li>
+                                    <li>
+                                        <a href="ourProjects.php">Our Projects</a>
+                                    </li>
 
 
                                                
