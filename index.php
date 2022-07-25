@@ -480,6 +480,70 @@
                 </div>
             </div>
         </section>
+        <section class="gallery sec-padd style-2">
+            <div class="container">
+
+                <div class="center">
+                    <ul class="post-filter list-inline">
+                        <li class="active" data-filter=".filter-item">
+                            <span>View All</span>
+                        </li>
+                        <li data-filter=".service">
+                            <span>Services</span>
+                        </li>
+                        <li data-filter=".projects">
+                            <span>Our Projects</span>
+                        </li>
+                       
+                    </ul>
+                </div>            
+
+                <div class="row filter-layout">
+
+                    
+                    <article class="col-md-4 col-sm-6 col-xs-12 filter-item service">
+                        <div class="item">
+                            <img src="images/project/1.jpg" alt="">
+                            <div class="overlay">
+                                <div class="top">
+                                    <div class="box">
+                                        <div class="content">
+                                            <a data-group="1" href="images/project/1.jpg" class="img-popup thm-btn">view project</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="bottom"><a href="single-gallery.html"><h4>Clean poor urban areas to protect <br>from pollution.</h4></a></div>
+                            </div>
+                        </div>
+                    </article> 
+                    <article class="col-md-4 col-sm-6 col-xs-12 filter-item projects">
+                        <div class="item">
+                            <img src="images/project/2.jpg" alt="">
+                            <div class="overlay">
+                                <div class="top">
+                                    <div class="box">
+                                        <div class="content">
+                                            <a data-group="1" href="images/project/2.jpg" class="img-popup thm-btn">view project</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="bottom"><a href="single-gallery.html"><h4>Clean poor urban areas to protect <br>from pollution.</h4></a></div>
+                            </div>
+                        </div>
+                    </article> 
+                
+
+
+
+                </div>
+                <ul class="page_pagination center">
+                    <li><a href="#" class="tran3s"><i class="fa fa-angle-left" aria-hidden="true"></i></a></li>
+                    <li><a href="#" class="active tran3s">1</a></li>
+                    <li><a href="#" class="tran3s">2</a></li>
+                    <li><a href="#" class="tran3s"><i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+                </ul>
+            </div>
+        </section>
 
 
         <section class="fact-counter fact-counter-2 sec-padd" style="background-image: url(images/background/10.jpg);">
