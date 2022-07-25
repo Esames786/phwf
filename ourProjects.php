@@ -51,7 +51,7 @@
             </ul>
         </div>
         <div class="pull-right">
-            <a href="#" class="get-qoute"><i class="fa fa-arrow-circle-right"></i>Become a Member</a>
+            <!-- <a href="#" class="get-qoute"><i class="fa fa-arrow-circle-right"></i>Become a Member</a> -->
         </div>
     </div>
 </div>
@@ -61,9 +61,12 @@
     <div class="container">
 
         <div class="row">
+        <div class="section-title">
+                        <h2>Latest <span class="thm-color">Projects</span></h2>
+                    </div>
             <article class="item col-md-12 col-sm-12 col-xs-12">
                 <figure class="img-box">
-                    <img src="images/cause/1.jpg" alt="">
+                    <img style="width:100%;height:40rem" src="images/cause/1.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 
@@ -80,7 +83,7 @@
             </article>
             <article class="item col-md-12 col-sm-12 col-xs-12">
                 <figure class="img-box">
-                    <img src="images/cause/2.jpg" alt="">
+                    <img style="width:100%;height:40rem" src="images/cause/2.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 
@@ -97,7 +100,7 @@
             </article>
             <article class="item col-md-12 col-sm-12 col-xs-12">
                 <figure class="img-box">
-                    <img src="images/cause/3.jpg" alt="">
+                    <img style="width:100%;height:40rem" src="images/cause/3.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 
@@ -114,7 +117,7 @@
             </article>
             <article class="item col-md-12 col-sm-12 col-xs-12">
                 <figure class="img-box">
-                    <img src="images/cause/4.jpg" alt="">
+                    <img style="width:100%;height:40rem" src="images/cause/4.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 
@@ -133,7 +136,7 @@ Having this type of services enhances our skills and we do more and more for the
             </article>
             <article class="item col-md-12 col-sm-12 col-xs-12">
                 <figure class="img-box">
-                    <img src="images/cause/5.jpg" alt="">
+                    <img style="width:100%;height:40rem" src="images/cause/5.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 
