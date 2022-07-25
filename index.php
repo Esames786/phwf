@@ -336,7 +336,7 @@
         <section class="gallery sec-padd">
             <div class="container">
                 <div class="section-title center">
-                    <h2>Latest <span class="thm-color">Projects</span></h2>
+                    <h2>Our <span class="thm-color">Services</span></h2>
                 </div>
 
 
@@ -549,8 +549,8 @@
                     <div class="text center">
                         <a href="#"><h4 class="title">A HOSPITAL SETUP</h4></a>
                         <p>For the purpose of medical treatments we are taking step ahead and creating a hospital setup in which the needy patients will be given treatment free of cost. We are giving quality treatment and the medicines by which they can heal themselves.
-Having this type of services enhances our skills and we do more and more for the people of our society who are deprived of health facilities. Further we can also create more setups So that we can overcome the toughest medical problems like cancer and many dangerous diseases.
-</p>
+                    Having this type of services enhances our skills and we do more and more for the people of our society who are deprived of health facilities. Further we can also create more setups So that we can overcome the toughest medical problems like cancer and many dangerous diseases.
+                    </p>
                     </div>
                  
                     
