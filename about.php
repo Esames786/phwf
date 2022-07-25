@@ -58,18 +58,21 @@
                  
 
 
-                    <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="col-md-8 col-sm-8 col-xs-12">
                         <div class="content">
-                        <h4>OUR FOREMOST MISSION</h4>
-
+                        <h3>OUR FOREMOST MISSION</h3>
+<br>
+<br>
                             <div class="text">
                                 <p>“We believe in serving the humanity regardless of the caste, color, language and religion. We take our mission our duty.”</p>
                             </div>
 
 
-                            
-                            <h4>About Public Health Welfare</h4>
-
+                            <br>
+<br>             
+                            <h3>About Public Health Welfare</h3>
+                            <br>
+<br>
                             <div class="text">
                                 <p>We cannot deny that the need of social organization is very important in this fast world because no one has time to serve the humanity. Keeping in the view it was decided to start the Public Help Welfare organization. The organization was started in the city of lights Karachi on 25 June 2014. The founder of this organization is Mr. Salman Jawaid Memon. The main purpose of the organization is to help the poor people in need financially or physically. We are focusing on the tasks related to free food to poor people, free education to the deserving students, to provide health facilities to needy, pure drinking water and also the help of animals that cannot speak for themselves.</p>
                             </div>
