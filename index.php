@@ -490,12 +490,8 @@
                             <p class="thm-color">Want to join with us</p>
 
 
-                            <h2>Become a proud volunteer</h2>
-
-
-                            <p>When you bring together those who have, with those who have not - miracles happen.Become a time hero by volunteering with us. Meet new friends, gain new skills, get happiness and have fun!</p>
-
-
+                            <h2>Become a proud Member</h2>
+                                <p>Becoming a part of the Public Help Welfare enhance your social skills. You can connect with the people while helping the needy and poor people. You can learn about their hardships, problems and life style. In this way you can explore the real livings problems and can think of their solutions and can help the organization to solve the problems of society.</p>
                             <div class="link">
                                 <a class="thm-btn" href="#">Join with us</a>
                             </div>
