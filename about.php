@@ -98,12 +98,12 @@
                                     <span class="icon-heart3"></span>
                                 </div>
                                 <a href="3.html">
-                                <h4>08 Years of Experince</h4></a>
+                                <h4>08 Years of Services</h4></a>
                             </div>
 
 
                             <div class="text">
-                                <p>Actual teachings of the great explorer the truth, the master-builder of human sed happiness one dislikes, or avoids pleasure itself.</p>
+                                <p>We are providing services since 2004.</p>
                             </div>
                         </div>
                     </div>
@@ -124,7 +124,7 @@
 
 
                             <div class="text">
-                                <p>Installations are becoming more important, but if current trends continue under we seds ut should be looking to seds others solutions.</p>
+                                <p>Our Volunteers providing help to needy ones .</p>
                             </div>
                         </div>
                     </div>
@@ -145,7 +145,7 @@
 
 
                             <div class="text">
-                                <p>Everyone loves spend time outside with friends and family but as the temperature begins to dip out in the freezing cold.</p>
+                                <p>People trust our services to the society</p>
                             </div>
                         </div>
                     </div>
