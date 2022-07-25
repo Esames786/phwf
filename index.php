@@ -50,7 +50,7 @@
                         <div class="tp-caption tp-resizeme" data-hoffset="190" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="2600" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-voffset="580" data-x="left" data-y="top">
                             <div class="slide-content-box">
                                 <div class="button">
-                                    <a class="thm-btn style-3" href="cause.html">our causes</a>
+                                    <a class="thm-btn style-3" href="contact.php">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                         <div class="tp-caption tp-resizeme" data-hoffset="-90" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="2300" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-voffset="550" data-x="center" data-y="top">
                             <div class="slide-content-box">
                                 <div class="button">
-                                    <a class="thm-btn" href="#">donate us</a>
+                                    <a class="thm-btn donate-box-btn" href="#">donate us</a>
                                 </div>
                             </div>
                         </div>
@@ -83,7 +83,7 @@
                         <div class="tp-caption tp-resizeme" data-hoffset="90" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="2600" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-voffset="550" data-x="center" data-y="top">
                             <div class="slide-content-box">
                                 <div class="button">
-                                    <a class="thm-btn style-3" href="cause.html">our causes</a>
+                                    <a class="thm-btn style-3" href="contact.php">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -117,7 +117,7 @@
                         <div class="tp-caption tp-resizeme" data-hoffset="190" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="2600" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-voffset="570" data-x="center" data-y="top">
                             <div class="slide-content-box">
                                 <div class="button">
-                                    <a class="thm-btn style-3" href="cause.html">Donate us</a>
+                                    <a class="thm-btn style-3" href="contact.php">Contact Us</a>
                                 </div>
                             </div>
                         </div>
