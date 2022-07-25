@@ -19,7 +19,7 @@
                          
 
 
-                            <h3>You can send your donations by the below mentioned bank and also inform us that what type of particular donation you are sending. </h3>
+                            <h4>You can send your donations by the below mentioned bank and also inform us that what type of particular donation you are sending. </h4>
                             <h3>Bank Details: Bank Alfalah</h3>
                             <h3>0092-73783682638-2</h3>
 
