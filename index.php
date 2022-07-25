@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
 
-    <title>Humanity || Responsive HTML 5 Template</title><!-- mobile responsive meta -->
+    <title>Public Help Welfare || Home Us</title><!-- mobile responsive meta -->
+
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
     <link href="css/style.css" rel="stylesheet">

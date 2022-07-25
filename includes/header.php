@@ -18,29 +18,7 @@
 
 
                         <div class="" id="polyglotLanguageSwitcher">
-                            <form action="#">
-                                <select id="polyglot-language-options">
-                                    <option id="en" selected value="en">
-                                        English
-                                    </option>
-
-                                    <option id="fr" value="fr">
-                                        French
-                                    </option>
-
-                                    <option id="de" value="de">
-                                        German
-                                    </option>
-
-                                    <option id="it" value="it">
-                                        Italian
-                                    </option>
-
-                                    <option id="es" value="es">
-                                        Spanish
-                                    </option>
-                                </select>
-                            </form>
+                           
                         </div>
                     </div>
                 </div>
@@ -62,7 +40,10 @@
                         <nav class="defaultmainmenu" id="main_menu">
                             <ul class="defaultmainmenu-menu">
                                 <li>
-                                    <a href="index-2.html">Home</a>
+                                    <a href="index.php">Home</a>
+                                </li>
+                                <li>
+                                    <a href="index.php">Home</a>
                                 </li>
 
 
@@ -71,27 +52,30 @@
 
                                     <ul class="dropdown">
                                         <li>
-                                            <a href="about.html">About humanity</a>
+                                            <a href="about.php">About Us</a>
                                         </li>
 
 
                                         <li>
-                                            <a href="team.html">Meet Our Team</a>
+                                            <a href="chairmanMessage.php">Chairman Message</a>
                                         </li>
 
 
                                         <li>
-                                            <a href="volunteer.html">Join as Volunteer</a>
+                                            <a href="ourTeam.php">Our Team</a>
                                         </li>
 
 
                                         <li>
-                                            <a href="faq.html">FAQ's</a>
+                                            <a href="OurServices.php">Our Services</a>
                                         </li>
 
 
                                         <li>
-                                            <a href="testimonial.html">Testimonials</a>
+                                            <a href="donateHere.php">Donate Here</a>
+                                        </li>
+                                        <li>
+                                            <a href="donateHere.php">Donate Here</a>
                                         </li>
 
 
