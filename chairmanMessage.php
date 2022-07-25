@@ -59,6 +59,10 @@
 
 
                     <div class="col-md-8 col-sm-8 col-xs-12">
+                    <div class="img-box">
+                        <img src="images/event/16.jpg" alt="">
+                        
+                    </div>
                         <div class="content">
                         <div class="section-title2">
                         <h3>Chairman Message</h3>
