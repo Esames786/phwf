@@ -67,6 +67,9 @@
                                     <li>
                                         <a href="ourProjects.php">Our Projects</a>
                                     </li>
+                                    <li>
+                                        <a href="member.php">Become A Member</a>
+                                    </li>
                                     </ul>
                                 </li>
                               
