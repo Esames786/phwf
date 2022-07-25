@@ -480,72 +480,106 @@
                 </div>
             </div>
         </section>
-        <section class="gallery sec-padd style-2">
-            <div class="container">
+        <section class="urgent-cause2 sec-padd">
+    <div class="container">
 
-                <div class="center">
-                    <ul class="post-filter list-inline">
-                        <li class="active" data-filter=".filter-item">
-                            <span>View All</span>
-                        </li>
-                        <li data-filter=".service">
-                            <span>Services</span>
-                        </li>
-                        <li data-filter=".projects">
-                            <span>Our Projects</span>
-                        </li>
-                       
-                    </ul>
-                </div>            
-
-                <div class="row filter-layout">
-
-                    
-                    <article class="col-md-4 col-sm-6 col-xs-12 filter-item service">
-                        <div class="item">
-                            <img src="images/project/1.jpg" alt="">
-                            <div class="overlay">
-                                <div class="top">
-                                    <div class="box">
-                                        <div class="content">
-                                            <a data-group="1" href="images/project/1.jpg" class="img-popup thm-btn">view project</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="bottom"><a href="single-gallery.html"><h4>Clean poor urban areas to protect <br>from pollution.</h4></a></div>
-                            </div>
-                        </div>
-                    </article> 
-                    <article class="col-md-4 col-sm-6 col-xs-12 filter-item projects">
-                        <div class="item">
-                            <img src="images/project/2.jpg" alt="">
-                            <div class="overlay">
-                                <div class="top">
-                                    <div class="box">
-                                        <div class="content">
-                                            <a data-group="1" href="images/project/2.jpg" class="img-popup thm-btn">view project</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="bottom"><a href="single-gallery.html"><h4>Clean poor urban areas to protect <br>from pollution.</h4></a></div>
-                            </div>
-                        </div>
-                    </article> 
+        <div class="row">
+        <div class="section-title">
+                        <h2>Latest <span class="thm-color">Projects</span></h2>
+                    </div>
+            <article class="item col-md-6 col-sm- col-xs-12">
+                <figure class="img-box">
+                    <img style="width:100%;height:40rem" src="images/cause/1.jpg" alt="">
+                    <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
+                </figure>
                 
-
-
-
-                </div>
-                <ul class="page_pagination center">
-                    <li><a href="#" class="tran3s"><i class="fa fa-angle-left" aria-hidden="true"></i></a></li>
-                    <li><a href="#" class="active tran3s">1</a></li>
-                    <li><a href="#" class="tran3s">2</a></li>
-                    <li><a href="#" class="tran3s"><i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-                </ul>
-            </div>
-        </section>
-
-
+                <div class="content">
+                    
+                    <div class="text center">
+                        <a href="#"><h4 class="title">AN AMBULANCE SERVICE</h4></a>
+                        <p>In the start we have an ambulance with basic needs for the treatment of patients.  This will be increased time to time. This ambulance system is controlled by the organization itself and organization fully owned this asset. This is the basic need of any hospital setup. When there is an emergency in any case we use this ambulance for rescuing the patient for the required hospitals and organizations.</p>               
+                    </div>
+                    
+                    
+                </div>                        
+                        
+            </article>
+            <article class="item col-md-6 col-sm- col-xs-12">
+                <figure class="img-box">
+                    <img style="width:100%;height:40rem" src="images/cause/2.jpg" alt="">
+                    <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
+                </figure>
+                
+                <div class="content">
+                    
+                    <div class="text center">
+                        <a href="#"><h4 class="title">WATER HAND PUMPS</h4></a>
+                        <p>In internal Sindh We started number of projects in which this projects is widely spread. The need of this project was the shortage of water in internal Sindh. This step was taken on behalf of letter of the person residing the same location. He expressed the need of water tankers and water hand pumps in the village. So we decided to move further step and did our best. We provided many water hand pumps and controlled the shortage of water. We further believe that this step which we took to overcome the shortage will continue and more work will be performed in this sector.</p>
+                    </div>
+                   
+                    
+                </div>                        
+                        
+            </article>
+            <article class="item col-md-6 col-sm- col-xs-12">
+                <figure class="img-box">
+                    <img style="width:100%;height:40rem" src="images/cause/3.jpg" alt="">
+                    <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
+                </figure>
+                
+                <div class="content">
+                    
+                    <div class="text center">
+                        <a href="#"><h4 class="title">An Aftar Drive</h4></a>
+                        <p>In the holy month of Ramadan we are always blessed by Almighty Allah. We as an organization did the Aftrari Set Up for the whole month of Ramadan. By this act we got so much happened and our heart was full of joy.</p>
+                    </div>
+                   
+                    
+                </div>                        
+                        
+            </article>
+            <article class="item col-md-6 col-sm- col-xs-12">
+                <figure class="img-box">
+                    <img style="width:100%;height:40rem" src="images/cause/4.jpg" alt="">
+                    <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
+                </figure>
+                
+                <div class="content">
+                    
+                    <div class="text center">
+                        <a href="#"><h4 class="title">A HOSPITAL SETUP</h4></a>
+                        <p>For the purpose of medical treatments we are taking step ahead and creating a hospital setup in which the needy patients will be given treatment free of cost. We are giving quality treatment and the medicines by which they can heal themselves.
+Having this type of services enhances our skills and we do more and more for the people of our society who are deprived of health facilities. Further we can also create more setups So that we can overcome the toughest medical problems like cancer and many dangerous diseases.
+</p>
+                    </div>
+                 
+                    
+                </div>                        
+                        
+            </article>
+            <article class="item col-md-6 col-sm- col-xs-12">
+                <figure class="img-box">
+                    <img style="width:100%;height:40rem" src="images/cause/5.jpg" alt="">
+                    <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
+                </figure>
+                
+                <div class="content">
+                    
+                    <div class="text center">
+                        <a href="#"><h4 class="title">RASHAN DISTRIBUTION</h4></a>
+                        <p>The basic need of the people is their daily household things. Those who cannot afford like widows, orphans and less salaried families are given the RASHAN package at their door step. This step was taken due to recent hikes in inflation of country in which middle class families are also troubling.
+We need to take care of the basic facilities of poor families So that they and their children can eat full of stomach. If they will eat full then they can perform well.</p>               
+                    </div>
+                </div>                          
+            </article>
+        </div>
+        <ul class="page_pagination center">
+            <li><a href="#" class="tran3s"><i class="fa fa-angle-left" aria-hidden="true"></i></a></li>
+            <li><a href="#" class="active tran3s">1</a></li>
+            <li><a href="#" class="tran3s"><i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+        </ul>
+    </div>
+</section>
         <section class="fact-counter fact-counter-2 sec-padd" style="background-image: url(images/background/10.jpg);">
             <div class="container">
                 <div class="row clearfix">
