@@ -65,7 +65,7 @@
                         <h2>OUR <span class="thm-color">SERVICES </span></h2>
                     </div>
             <article class="item col-md-12 col-sm-12 col-xs-12">
-                <figure class="img-box">
+                <figure class="img-box" style="width:100%">
                     <img style="width:100%;height:40rem" src="images/cause/1.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
@@ -75,6 +75,7 @@
                     <div class="text ">
                         <a href="#"><h2 class="title">Animals</h2></a>
                         <br>
+                        <br>
                         <p>We all share ownership of the world weather we are human and non-human (animals). When we begin to perceive the universe as a collective society, the world will begin to improve for everyone. The goal of PHW foundation is to demonstrate the trust form of empathy—doing for those who can never do anything for you in return. To assist those in whose shoes you will never walk. And to look after anyone and everyone who needs assistance, no matter who they are. Our goal is to rescue and rehabilitate one of our country's most neglected animals: abused and injured homeless, street animals, while also highlighting and assisting in the hardships of other marginalized groups and pressing societal issues that are often overlooked. We also love to make an animal houses in which animals are kept for the purpose of treatment because there are less veterinary clinic in which treatment can be carried out. For this we will have the team of caring nurses and good veterinary doctors those who will treat the animals with professional skills. </p>
                     </div>
                     
@@ -83,7 +84,7 @@
                         
             </article>
             <article class="item col-md-12 col-sm-12 col-xs-12">
-                <figure class="img-box">
+                <figure class="img-box" style="width:100%">
                     <img style="width:100%;height:40rem" src="images/cause/2.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
@@ -92,6 +93,7 @@
                     
                     <div class="text ">
                         <a href="#"><h2 class="title">Medical Care</h2></a>
+                        <br>
                         <br>
                         <p>According to World Health Organization, Pakistan stands on the position of 154th out of 195 countries. This situation is alarming. Pakistan only spends 1.2% of Gross Domestic Product on Health .This data explains Pakistani population spends more on their health treatment because of huge fee of Private hospitals and clinics. </p>
                         <br>
@@ -103,7 +105,7 @@
                         
             </article>
             <article class="item col-md-12 col-sm-12 col-xs-12">
-                <figure class="img-box">
+                <figure class="img-box" style="width:100%">
                     <img style="width:100%;height:40rem" src="images/cause/3.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
@@ -112,6 +114,7 @@
                     
                     <div class="text ">
                         <a href="#"><h2 class="title">Education</h2></a>
+                        <br>
                         <br>
                         <p>The current scenario is this that Pakistan has just 62.3%  literacy rate which is increasing year after year but there is so much work to do in this sector. Nearly 11 million children are out of schools in Pakistan that shows we have a lot of work to perform for our future generation. Pakistan only spends 1.5% of Total GDP on Education that is so much low. We have to balance it for good results.</p>
                         <p> Our aim is to provide resources for education to the people who can’t afford to take their child to the schools and high schools. Schooling is both the means and the end goal of a better life; the means because it enables an individual to earn a living and the end goal because it raises one's awareness on a variety of issues ranging from healthcare to relevant social behavior to recognizing one's rights, enabling one to evolve as a better citizen. PHW foundation gives special attention towards girl’s education so that girls with their families get empowered. </p>
@@ -122,7 +125,7 @@
                         
             </article>
             <article class="item col-md-12 col-sm-12 col-xs-12">
-                <figure class="img-box">
+                <figure class="img-box" style="width:100%">
                     <img style="width:100%;height:40rem" src="images/cause/4.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
@@ -131,6 +134,7 @@
                     
                     <div class="text ">
                         <a href="#"><h2 class="title">Food</h2></a>
+                        <br>
                         <br>
                         <p>Pakistan is the developing countries and also under high debt. Pakistan ranks 88th in the Hunger index out of 107 countries.  In Pakistan 20 percent people are under nourished.  But in this sector there are number of organization like Edhi, Chipa and JDC are working on very large scale. PHW will also follow footprints of these organizations for their cause. </p>
                         <p>Our aim is to provide food to those who are deprived of it. Access to a consistent, cheap, and nutritionally supply of food in a dignified manner is the first challenge to a human's class and integrity, and a lack of food is the first obstacle to reaching one's full potential. If one's stomach is empty, one does not have the luxury of developing. Join your hands with PHW foundation to feed empty stomach.</p>
