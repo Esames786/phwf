@@ -72,9 +72,7 @@
                                 <li>
                                     <a href="contactUs.php">Contact Us</a>
                                 </li>
-                                <li>
-                                    <a href="donateHere.php">Donate Here</a>
-                                </li>
+                               
 
 
                                
