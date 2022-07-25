@@ -96,7 +96,7 @@
                         <br>
                         <br>
                         <p>According to World Health Organization, Pakistan stands on the position of 154th out of 195 countries. This situation is alarming. Pakistan only spends 1.2% of Gross Domestic Product on Health .This data explains Pakistani population spends more on their health treatment because of huge fee of Private hospitals and clinics. </p>
-                        <br>
+                        
                         <p>Our vision is that there should be proper health care available and accessible for everyone in our society. The goal of PHW is to concentrate on the needy people in our surroundings by the human power and sincere donations. We want to help those who cannot afford the costly treatment. The PHW also provides the facility to arrange blood for the patients. Most of cancer patients are unaware of their disease; they may require repeated hospitalization, costly medications, and dialysis, putting a significant financial strain on their families and health-care systems. In so many cases, deaths occur within 1-3 years because they have late access to testing and treatment. Thus, the goal of PHW is to invest in community change and help reduce suffering.</p>
                     </div>
                    
