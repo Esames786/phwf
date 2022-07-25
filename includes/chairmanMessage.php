@@ -92,7 +92,7 @@
                         <br>
 
                             <div  class="text">
-<p>The Public Help Welfare headed by Mr. Salamn Jawaid Memon is a network of humanity services organizations working for the deliverance of better treatment and wellbeing of human beings as they desire. It is the long lasting mission. This organization will continue its efforts and hard work to serve the humanity till our team has life.</p>
+                                    <p>The Public Help Welfare headed by Mr. Salamn Jawaid Memon is a network of humanity services organizations working for the deliverance of better treatment and wellbeing of human beings as they desire. It is the long lasting mission. This organization will continue its efforts and hard work to serve the humanity till our team has life.</p>
                         </div>
                         </div>
                     </div>
@@ -110,6 +110,7 @@
 
 
       
+
 
 
         <?php include './includes/footer.php' ?>
