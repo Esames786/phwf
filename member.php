@@ -208,7 +208,7 @@
     <!-- preloader  -->
     <div class="preloader"></div>
   
-<?php include './doner.php' ?>
+<?php include './donate.php' ?>
   
 
     <!-- jQuery -->
