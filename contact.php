@@ -24,7 +24,7 @@
 <div class="boxed_wrapper">
 
 
-<?php include './header.php' ?>
+<?php include './includes/header.php' ?>
  
 
 <div class="inner-banner has-base-color-overlay text-center" style="background: url(images/background/4.jpg);">
@@ -154,7 +154,7 @@
 
 
 
-<?php include './footer.php' ?>
+<?php include './includes/footer.php' ?>
 
                                                                                              
     <!-- Scroll Top  -->
