@@ -10,10 +10,10 @@
 
                     <div class="right-column float_right">
                         <ul class="list_inline contact-info">
-                            <li><span class="icon-phone"></span>Phone: +32 456 789012</li>
+                            <li><span class="icon-phone"></span>Phone: +92-302-28715563</li>
 
 
-                            <li><span class="icon-back"></span>Email: Mailus@Humanity.com</li>
+                            <li><span class="icon-back"></span>Email: phwfoundation2011@gmail.com</li>
                         </ul>
 
 
