@@ -131,10 +131,9 @@
             <div class="container">
                 <div class="section-title center">
                     <h2>Welcome to <span class="thm-color">Public Help Welfare</span></h2>
-
-
-                    <p>We are all the human beings and have created for the purpose to help each other’s.  It is very famous proverbs that GOD HELPS THOSE WHO HELP THEMSELVES. Those who take decision of doing any good deed Almighty Allah helps them in a way that they cannot even imagine and beyond their thinking. We must all think only about the well-being of the society and solve the problems of society and God will care of ours.</p>                        </div>
                     <p>It was established in 2014 by MR Salman JAwaid Memon , foreign qualified Bachelor and Master’s degree holder from Australia in  Pakistani port city of Karachi; The PHW is the organization that serves the humanity selflessly  day and night. Mr Salman himself monitors and performs the activities of the organization. </p>
+                    <p>We are all the human beings and have created for the purpose to help each other’s.  It is very famous proverbs that GOD HELPS THOSE WHO HELP THEMSELVES. Those who take decision of doing any good deed Almighty Allah helps them in a way that they cannot even imagine and beyond their thinking. We must all think only about the well-being of the society and solve the problems of society and God will care of ours.</p>                        </div>
+                
                 </div>
 
             </div>
