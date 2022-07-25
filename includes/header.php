@@ -31,7 +31,7 @@
                 <div class="row">
                     <div class="col-md-3">
                         <div class="main-logo">
-                            <a href="index.php"><img alt="" src="images/logo/logo2.PNG" style="border-radius: 5%; width: 126px; height: 93px;"></a>
+                            <a href="index.php"><img alt="" src="images/logo/logo2.PNG" style="border-radius: 5%; width: 126px; height: 73px;"></a>
                         </div>
                     </div>
 
@@ -74,7 +74,7 @@
 
                                 <li>
                                     <a href="ourTeam.php">Our Team</a>
-                                    
+
                                 </li>
 
 
