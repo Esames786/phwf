@@ -140,176 +140,13 @@
         </section>
 
 
-        <section class="urgent-cause2 with-bg sec-padd3">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-9 col-sm-8 col-xs-12">
-                        <div class="section-title">
-                            <h2>Urgent <span class="thm-color">Cause</span></h2>
-                        </div>
-                    </div>
-
-
-                    <div class="col-md-3 col-sm-4 col-xs-12">
-                        <div class="link float_right">
-                            <a class="thm-btn style-2" href="#">All Causes</a>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="row">
-                    <article class="item col-md-4 col-sm-6 col-xs-12">
-                        <figure class="img-box">
-                            <img alt="" src="images/cause/1.jpg">
-
-                            <div class="overlay">
-                                <div class="inner-box">
-                                    <div class="content-box">
-                                        <button class="thm-btn style-2 donate-box-btn">donate now</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </figure>
-
-
-                        <div class="content">
-                            <div class="text center">
-                                <a href="#">
-                                <h4 class="title">Childrens to get their home</h4></a>
-
-                                <p>Fusce et augue placerat, dictu velit sit amet, egestasuna. cras aliquam pretium ornar liquam metus. Aenean venenatis sodales...</p>
-                            </div>
-
-
-                            <div class="progress-box">
-                                <div class="bar">
-                                    <div class="bar-inner animated-bar" data-percent="48%">
-                                        <div class="count-text">
-                                            48%
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <div class="donate clearfix">
-                                <div class="donate float_left">
-                                    <span>Goal: $54000</span>
-                                </div>
-
-
-                                <div class="donate float_right">
-                                    Raised: $24000
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-
-
-                    <article class="item col-md-4 col-sm-6 col-xs-12">
-                        <figure class="img-box">
-                            <img alt="" src="images/cause/2.jpg">
-
-                            <div class="overlay">
-                                <div class="inner-box">
-                                    <div class="content-box">
-                                        <button class="thm-btn style-2 donate-box-btn">donate now</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </figure>
-
-
-                        <div class="content">
-                            <div class="text center">
-                                <a href="#">
-                                <h4 class="title">We encourage girls education</h4></a>
-
-                                <p>Phasellus cursus nunc arcu, eget sollicitudin milacinia tempurs. Donec ligula turpis, egestas at volutpat no liquam...</p>
-                            </div>
-
-
-                            <div class="progress-box">
-                                <div class="bar">
-                                    <div class="bar-inner animated-bar" data-percent="75%">
-                                        <div class="count-text">
-                                            75%
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <div class="donate clearfix">
-                                <div class="donate float_left">
-                                    <span>Goal: $92000</span>
-                                </div>
-
-
-                                <div class="donate float_right">
-                                    Raised: $69000
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-
-
-                    <article class="item col-md-4 col-sm-6 col-xs-12">
-                        <figure class="img-box">
-                            <img alt="" src="images/cause/3.jpg">
-
-                            <div class="overlay">
-                                <div class="inner-box">
-                                    <div class="content-box">
-                                        <button class="thm-btn style-2 donate-box-btn">donate now</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </figure>
-
-
-                        <div class="content">
-                            <div class="text center">
-                                <a href="#">
-                                <h4 class="title">The people to help themselves</h4></a>
-
-                                <p>Etiam vitae leo diam pellentesque portaed eleifend ultricies risu, vel rutrum era commodos Praesent finib congue euismod...</p>
-                            </div>
-
-
-                            <div class="progress-box">
-                                <div class="bar">
-                                    <div class="bar-inner animated-bar" data-percent="68%">
-                                        <div class="count-text">
-                                            68%
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <div class="donate clearfix">
-                                <div class="donate float_left">
-                                    <span>Goal: $78000</span>
-                                </div>
-
-
-                                <div class="donate float_right">
-                                    Raised: $49000
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                </div>
-            </div>
-        </section>
+       
 
 
         <section class="about sec-padd2">
             <div class="container">
                 <div class="section-title center">
-                    <h2>About our <span class="thm-color">humanity</span></h2>
+                    <h2>About <span class="thm-color">PHW Foundation</span></h2>
                 </div>
 
 
@@ -324,9 +161,7 @@
 
                             <div class="col-md-6 col-sm-6 col-xs-12">
                                 <h3>What We Do</h3>
-
-
-                                <p>Idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actually teachings of the great explorer of the truth.</p>
+                                <p> we aim to mitigate the basic problems that are faced by the neglected people of the society. We will only focus to become the helping hand of the poor people and let them enjoy the life as we do.</p>
                             </div>
                         </div>
 
@@ -342,7 +177,7 @@
                                 <h3>How It Works</h3>
 
 
-                                <p>Who loves or pursues or desires to obtain pain of itself, because it is pain, because occasionally circumstances occur which toil and pain can procure him some great pleasure.</p>
+                                <p>The organization helps the poor people in need financially or physically. We are focusing on the tasks related to free food to poor people, free education to the deserving students, to provide health facilities to needy, pure drinking water and also the help of animals that cannot speak for themselves.</p>
                             </div>
                         </div>
                     </article>
@@ -351,7 +186,7 @@
                     <article class="col-md-6 col-sm-6 col-xs-12">
                         <div class="content">
                             <div class="text">
-                                <p>When you give to Our humanity, you know your donation is making a difference. Whether you are supporting one of our Signature Programs or our carefully curated list of Gifts That Give More, our professional staff works hard every day to ensure every dollar has impact for the cause of your choice.</p>
+                                <p>“We believe in serving the humanity regardless of the caste, color, language and religion. We take our mission our duty.”</p>
                             </div>
 
 
@@ -359,21 +194,21 @@
 
 
                             <div class="text">
-                                <p>We partner with over 320 amazing projects worldwide, and have given over $150 million in cash and product grants to other groups since 2011. We also operate our own dynamic suite of Signature Programs.</p>
+                                <p>We cannot deny that the need of social organization is very important in this fast world because no one has time to serve the humanity. Keeping in the view it was decided to start the Public Help Welfare organization. The organization was started in the city of lights Karachi on 25 June 2014. The founder of this organization is Mr. Salman Jawaid Memon. The main purpose of the organization is to help the poor people in need financially or physically. We are focusing on the tasks related to free food to poor people, free education to the deserving students, to provide health facilities to needy, pure drinking water and also the help of animals that cannot speak for themselves.</p>
                             </div>
 
 
                             <ul>
-                                <li><i class="fa fa-check"></i>This mistaken idea of denouncing pleasure</li>
+                                <li><i class="fa fa-check"></i>08 Years of Services</li>
 
 
-                                <li><i class="fa fa-check"></i>Master-builder of human happiness</li>
+                                <li><i class="fa fa-check"></i>2345 Successfull Projectsness</li>
 
 
-                                <li><i class="fa fa-check"></i>Occasionally circumstances occur in toil</li>
+                                <li><i class="fa fa-check"></i>347 Team Members</li>
 
 
-                                <li><i class="fa fa-check"></i>Undertakes laborious physical exercise</li>
+                                <li><i class="fa fa-check"></i>Most Trusted humanity</li>
                             </ul>
                         </div>
                     </article>
