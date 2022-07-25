@@ -136,19 +136,7 @@
 
 
 
-<section class="home-google-map">
-    <div 
-        class="google-map" 
-        id="contact-google-map" 
-        data-map-lat="42.568692" 
-        data-map-lng="72.930105" 
-        data-icon-path="images/logo/map-marker.png"
-        data-map-title="Chester"
-        data-map-zoom="8" >
 
-    </div>
-
-</section>
 
 
 
