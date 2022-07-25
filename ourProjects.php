@@ -64,7 +64,7 @@
         <div class="section-title">
                         <h2>Latest <span class="thm-color">Projects</span></h2>
                     </div>
-            <article class="item col-md-6 col-sm-6 col-xs-12">
+            <article class="item col-md-6 col-sm- col-xs-12">
                 <figure class="img-box">
                     <img style="width:100%;height:40rem" src="images/cause/1.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
@@ -81,7 +81,7 @@
                 </div>                        
                         
             </article>
-            <article class="item col-md-6 col-sm-6 col-xs-12">
+            <article class="item col-md-6 col-sm- col-xs-12">
                 <figure class="img-box">
                     <img style="width:100%;height:40rem" src="images/cause/2.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
@@ -98,7 +98,7 @@
                 </div>                        
                         
             </article>
-            <article class="item col-md-6 col-sm-6 col-xs-12">
+            <article class="item col-md-6 col-sm- col-xs-12">
                 <figure class="img-box">
                     <img style="width:100%;height:40rem" src="images/cause/3.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
@@ -115,7 +115,7 @@
                 </div>                        
                         
             </article>
-            <article class="item col-md-6 col-sm-6 col-xs-12">
+            <article class="item col-md-6 col-sm- col-xs-12">
                 <figure class="img-box">
                     <img style="width:100%;height:40rem" src="images/cause/4.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
@@ -134,7 +134,7 @@ Having this type of services enhances our skills and we do more and more for the
                 </div>                        
                         
             </article>
-            <article class="item col-md-6 col-sm-6 col-xs-12">
+            <article class="item col-md-6 col-sm- col-xs-12">
                 <figure class="img-box">
                     <img style="width:100%;height:40rem" src="images/cause/5.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
@@ -153,7 +153,6 @@ We need to take care of the basic facilities of poor families So that they and t
         <ul class="page_pagination center">
             <li><a href="#" class="tran3s"><i class="fa fa-angle-left" aria-hidden="true"></i></a></li>
             <li><a href="#" class="active tran3s">1</a></li>
-            <li><a href="#" class="tran3s">2</a></li>
             <li><a href="#" class="tran3s"><i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
         </ul>
     </div>
