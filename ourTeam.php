@@ -64,7 +64,7 @@
             <h2><span class="thm-color">Our Team</span></h2>
         </div>  
         <div class="row">
-            <article class="col-md-4 col-sm-6 col-xs-12">
+            <article class="col-md-4 col-sm-6 col-xs-12" style="text-align: center">
                 <div class="single-team-member">
                     <figure class="img-box">
                         <a href="#"><img src="images/team/1.jpg" alt=""></a>
@@ -86,7 +86,7 @@
                         
                 </div>
             </article>
-            <article class="col-md-4 col-sm-6 col-xs-12">
+            <article class="col-md-4 col-sm-6 col-xs-12" style="text-align: center">
                 <div class="single-team-member">
                     <figure class="img-box">
                         <a href="#"><img src="images/team/2.jpg" alt=""></a>
@@ -108,7 +108,7 @@
                         
                 </div>
             </article>
-            <article class="col-md-4 col-sm-6 col-xs-12">
+            <article class="col-md-4 col-sm-6 col-xs-12" style="text-align: center">
                 <div class="single-team-member">
                     <figure class="img-box">
                         <a href="#"><img src="images/team/3.jpg" alt=""></a>
