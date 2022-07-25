@@ -84,7 +84,7 @@
                                
                                 
                                 <li>
-                                    <a href="contactUs.php">Contact Us</a>
+                                    <a href="contact.php">Contact Us</a>
                                 </li>
         
                             </ul>
