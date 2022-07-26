@@ -28,8 +28,7 @@
 
                         <div class="tp-caption tp-resizeme" data-hoffset="15" data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="700" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-voffset="350" data-x="left" data-y="top">
                             <div class="slide-content-box">
-                                <h1>Voice of everyone <br>
-                                Life for <span class="thm-color">Children</span></h1>
+                                <h1>Voice of everyone</h1>
 
 
                                 <p>Every good act is humanity. A man's true wealth hereafter is the good that<br>
