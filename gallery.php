@@ -252,7 +252,7 @@
         <div class="row filter-layout">
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
-                    <figure class="gallery_video"><img  alt="" /><a href="images/event_video/video_1.mp4" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
+                    <figure class="gallery_video"><source src="images/event_video/video_1.mp4" type="video/mp4"><span class="overlay-link icon-arrows4"></span></a></figure>   
                 </div>
             </article>
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
