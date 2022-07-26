@@ -241,7 +241,7 @@
                         <div class="top">
                             <div class="box">
                                 <div class="content">
-                                    <a data-group="1" href="images/event_img/img-21.jpg" class="img-popup thm-btn">view project</a>
+                                    <a data-group="1" href="images/event_img/img-12.jpg" class="img-popup thm-btn">view project</a>
                                 </div>
                             </div>
                         </div>
