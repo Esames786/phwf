@@ -227,7 +227,7 @@
                     <article class="item col-md-4 col-sm-4 col-xs-12">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="" src="images/team/team1.jpg">
+                                <img alt="" src="images/team/img-1.jpg">
 
                                 <div class="overlay3">
                                     <ul class="social-icon">
@@ -262,7 +262,7 @@
                     <article class="item col-md-4 col-sm-4 col-xs-12">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="" src="images/team/team2.jpg">
+                                <img alt="" src="images/team/img-2.jpg">
 
                                 <div class="overlay3">
                                     <ul class="social-icon">
@@ -297,7 +297,7 @@
                     <article class="item col-md-4 col-sm-4 col-xs-12">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="" src="images/team/team3.jpg">
+                                <img alt="" src="images/team/img-3.jpg">
 
                                 <div class="overlay3">
                                     <ul class="social-icon">
