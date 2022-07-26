@@ -66,7 +66,7 @@
                     </div>
             <article class="item col-md-12 col-sm-12 col-xs-12">
                 <figure class="img-box" style="width:100%">
-                    <img style="width:100%;height:40rem" src="images/event_img/animal.jpg" alt="">
+                    <img style="width:100%;height:50rem" src="images/event_img/animal.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 
@@ -85,7 +85,7 @@
             </article>
             <article class="item col-md-12 col-sm-12 col-xs-12">
                 <figure class="img-box" style="width:100%">
-                    <img style="width:100%;height:40rem" src="images/event_img/hospital.jpg" alt="">
+                    <img style="width:100%;height:50rem" src="images/event_img/hospital.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 
@@ -106,7 +106,7 @@
             </article>
             <article class="item col-md-12 col-sm-12 col-xs-12">
                 <figure class="img-box" style="width:100%">
-                    <img style="width:100%;height:40rem" src="images/event_img/img-5.jpg" alt="">
+                    <img style="width:100%;height:50rem" src="images/event_img/img-5.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 
@@ -126,7 +126,7 @@
             </article>
             <article class="item col-md-12 col-sm-12 col-xs-12">
                 <figure class="img-box" style="width:100%">
-                    <img style="width:100%;height:40rem" src="images/event_img/img-10.jpg" alt="">
+                    <img style="width:100%;height:50rem" src="images/event_img/img-10.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 
