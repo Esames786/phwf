@@ -505,7 +505,7 @@
             </article>
             <article class="item col-md-6 col-sm- col-xs-12">
                 <figure class="img-box">
-                    <img style="width:100%;height:40rem" src="images/event_img/aftra-img.jpg" alt="">
+                    <img style="width:100%;height:40rem" src="images/event_img/afar-drive.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 
