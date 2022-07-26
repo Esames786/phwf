@@ -248,18 +248,20 @@
 
         <div class="row filter-layout">
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
-                <div class="item">
-                    <img src="images/event_img/img-3.jpg" alt="">
-                    <div class="overlay">
-                        <div class="top">
-                            <div class="box">
-                                <div class="content">
-                                    <a data-group="1" href="images/event_img/img-3.jpg" class="img-popup thm-btn">view project</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="bottom"><a href="single-gallery.html"><h4>Clean poor urban areas to protect <br>from pollution.</h4></a></div>
-                    </div>
+                <div class="video-image-box">
+                    <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
+                </div>
+                <div class="video-image-box">
+                    <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
+                </div>
+                <div class="video-image-box">
+                    <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
+                </div>
+                <div class="video-image-box">
+                    <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
+                </div>
+                <div class="video-image-box">
+                    <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
                 </div>
             </article>
         </div>

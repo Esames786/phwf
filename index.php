@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
 
-    <title>PHW FOUNDATION || Home Us</title><!-- mobile responsive meta -->
+    <title>PHW FOUNDATION || Home</title><!-- mobile responsive meta -->
 
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
