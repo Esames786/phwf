@@ -57,13 +57,13 @@
 </div>
 
 
-<div class="section-title2">
-                        <h3>Latest Services</h3>
-</div>
+
 <section class="gallery sec-padd style-2">
     <div class="container">
 
-             
+    <div class="section-title2">
+                        <h3>Latest Services</h3>
+</div>     
 
         <div class="row filter-layout">
 
