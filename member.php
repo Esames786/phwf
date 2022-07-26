@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Public Help Welfare || Member</title><!-- mobile responsive meta -->
+    <title>PHW FOUNDATION || Member</title><!-- mobile responsive meta -->
 
     <!-- mobile responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -73,7 +73,7 @@
                         <h3>Be the part of serving humanity</h3>
                     </div>
                     <div class="text">
-                        <p>Becoming a part of the Public Help Welfare enhance your social skills. You can connect with the people while helping the needy and poor people. You can learn about their hardships, problems and life style. In this way you can explore the real livings problems and can think of their solutions and can help the organization to solve the problems of society.</p>
+                        <p>Becoming a part of the PHW FOUNDATION enhance your social skills. You can connect with the people while helping the needy and poor people. You can learn about their hardships, problems and life style. In this way you can explore the real livings problems and can think of their solutions and can help the organization to solve the problems of society.</p>
                     </div>
                     <div class="text">
                         <p>For this purpose we have designed a Google form. In this form you can insert your details and thoroughly read instructions while filling the form. The details mentioned must be true to you So that we can decide better and your chance of becoming a member to be easy. </p>

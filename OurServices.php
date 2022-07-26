@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Public Help Welfare || Services</title><!-- mobile responsive meta -->
+    <title>PHW FOUNDATION || Services</title><!-- mobile responsive meta -->
 
     <!-- mobile responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">

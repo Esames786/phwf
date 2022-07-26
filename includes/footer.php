@@ -99,7 +99,7 @@
                                             <li><i class="icon-phone"></i> <span>Phone:</span> +92-302-28715563</li>
 
 
-                                            <li><i class="icon-back"></i><span>Email:</span>  phwfoundation2011@gmail.com</li>
+                                            <li><i class="icon-back"></i><span>Email:</span> info@phwfoundation.org</li>
                                         </ul>
                                     </div>
                                 </div>

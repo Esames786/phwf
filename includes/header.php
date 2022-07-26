@@ -13,7 +13,7 @@
                             <li><span class="icon-phone"></span>Phone: +92-302-28715563</li>
 
 
-                            <li><span class="icon-back"></span>Email: phwfoundation2011@gmail.com</li>
+                            <li><span class="icon-back"></span>Email:info@phwfoundation.org</li>
                         </ul>
 
 
@@ -66,6 +66,9 @@
                                       </li>
                                     <li>
                                         <a href="ourProjects.php">Our Projects</a>
+                                    </li>
+                                    <li>
+                                        <a href="gallery.php">Our Gallery</a>
                                     </li>
                                     <li>
                                         <a href="member.php">Become A Member</a>

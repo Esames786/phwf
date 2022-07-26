@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
 
-    <title>Public Help Welfare || Public Message</title><!-- mobile responsive meta -->
+    <title>PHW FOUNDATION || Public Message</title><!-- mobile responsive meta -->
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
     <link href="css/style.css" rel="stylesheet">

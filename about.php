@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
 
-    <title>Public Help Welfare || About Us</title><!-- mobile responsive meta -->
+    <title>PHW FOUNDATION || About Us</title><!-- mobile responsive meta -->
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
     <link href="css/style.css" rel="stylesheet">
@@ -79,7 +79,7 @@
 </div>
                             <br>
                             <div class="text">
-                                <p>We cannot deny that the need of social organization is very important in this fast world because no one has time to serve the humanity. Keeping in the view it was decided to start the Public Help Welfare organization. The organization was started in the city of lights Karachi on 25 June 2014. The founder of this organization is Mr. Salman Jawaid Memon. The main purpose of the organization is to help the poor people in need financially or physically. We are focusing on the tasks related to free food to poor people, free education to the deserving students, to provide health facilities to needy, pure drinking water and also the help of animals that cannot speak for themselves.</p>
+                                <p>We cannot deny that the need of social organization is very important in this fast world because no one has time to serve the humanity. Keeping in the view it was decided to start the PHW FOUNDATION organization. The organization was started in the city of lights Karachi on 25 June 2014. The founder of this organization is Mr. Salman Jawaid Memon. The main purpose of the organization is to help the poor people in need financially or physically. We are focusing on the tasks related to free food to poor people, free education to the deserving students, to provide health facilities to needy, pure drinking water and also the help of animals that cannot speak for themselves.</p>
                             </div>
 
 

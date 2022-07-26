@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
 
-    <title>Public Help Welfare || Home Us</title><!-- mobile responsive meta -->
+    <title>PHW FOUNDATION || Home Us</title><!-- mobile responsive meta -->
 
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
@@ -129,7 +129,7 @@
         <section class="about-2 sec-padd3">
             <div class="container">
                 <div class="section-title center">
-                    <h2>Welcome to <span class="thm-color">Public Help Welfare</span></h2>
+                    <h2>Welcome to <span class="thm-color">PHW FOUNDATION</span></h2>
                     <p>It was established in 2014 by MR Salman JAwaid Memon , foreign qualified Bachelor and Master’s degree holder from Australia in  Pakistani port city of Karachi; The PHW is the organization that serves the humanity selflessly  day and night. Mr Salman himself monitors and performs the activities of the organization. </p>
                     <p>We are all the human beings and have created for the purpose to help each other’s.  It is very famous proverbs that GOD HELPS THOSE WHO HELP THEMSELVES. Those who take decision of doing any good deed Almighty Allah helps them in a way that they cannot even imagine and beyond their thinking. We must all think only about the well-being of the society and solve the problems of society and God will care of ours.</p>                        </div>
                 
@@ -193,7 +193,7 @@
 
 
                             <div class="text">
-                                <p>We cannot deny that the need of social organization is very important in this fast world because no one has time to serve the humanity. Keeping in the view it was decided to start the Public Help Welfare organization. The organization was started in the city of lights Karachi on 25 June 2014. The founder of this organization is Mr. Salman Jawaid Memon. The main purpose of the organization is to help the poor people in need financially or physically. We are focusing on the tasks related to free food to poor people, free education to the deserving students, to provide health facilities to needy, pure drinking water and also the help of animals that cannot speak for themselves.</p>
+                                <p>We cannot deny that the need of social organization is very important in this fast world because no one has time to serve the humanity. Keeping in the view it was decided to start the PHW FOUNDATION organization. The organization was started in the city of lights Karachi on 25 June 2014. The founder of this organization is Mr. Salman Jawaid Memon. The main purpose of the organization is to help the poor people in need financially or physically. We are focusing on the tasks related to free food to poor people, free education to the deserving students, to provide health facilities to needy, pure drinking water and also the help of animals that cannot speak for themselves.</p>
                             </div>
 
 
@@ -590,7 +590,7 @@
 
 
                             <h2>Become a proud Member</h2>
-                                <p>Becoming a part of the Public Help Welfare enhance your social skills. You can connect with the people while helping the needy and poor people. You can learn about their hardships, problems and life style. In this way you can explore the real livings problems and can think of their solutions and can help the organization to solve the problems of society.</p>
+                                <p>Becoming a part of the PHW FOUNDATION enhance your social skills. You can connect with the people while helping the needy and poor people. You can learn about their hardships, problems and life style. In this way you can explore the real livings problems and can think of their solutions and can help the organization to solve the problems of society.</p>
                             <div class="link">
                                 <a class="thm-btn" href="#">Join with us</a>
                             </div>

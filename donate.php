@@ -12,7 +12,7 @@
                         </div>
 
 
-                        <h4>At initial stage we are taking donations in one bank that is ALFALAH BANK. We request all to join hands with the Public Help Welfare for the noble cause.</h4>
+                        <h4>At initial stage we are taking donations in one bank that is ALFALAH BANK. We request all to join hands with the PHW FOUNDATION for the noble cause.</h4>
   
 
                         <form action="#" class="donate-form default-form">

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
 
-    <title>Public Help Welfare || Chairman Message</title><!-- mobile responsive meta -->
+    <title>PHW FOUNDATION || Chairman Message</title><!-- mobile responsive meta -->
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
     <link href="css/style.css" rel="stylesheet">
@@ -96,7 +96,7 @@
                         <br>
 
                             <div  class="text">
-                                    <p>The Public Help Welfare headed by Mr. Salamn Jawaid Memon is a network of humanity services organizations working for the deliverance of better treatment and wellbeing of human beings as they desire. It is the long lasting mission. This organization will continue its efforts and hard work to serve the humanity till our team has life.</p>
+                                    <p>The PHW FOUNDATION headed by Mr. Salamn Jawaid Memon is a network of humanity services organizations working for the deliverance of better treatment and wellbeing of human beings as they desire. It is the long lasting mission. This organization will continue its efforts and hard work to serve the humanity till our team has life.</p>
                         </div>
                         </div>
                     </div>
