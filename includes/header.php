@@ -119,11 +119,11 @@
 
 
                             <div class="search_option">
-                                <button aria-expanded="false" aria-haspopup="true" class="search tran3s dropdown-toggle color1_bg" data-toggle="dropdown" id="searchDropdown"><i aria-hidden="true" class="fa fa-search"></i></button>
+                                <!-- <button aria-expanded="false" aria-haspopup="true" class="search tran3s dropdown-toggle color1_bg" data-toggle="dropdown" id="searchDropdown"><i aria-hidden="true" class="fa fa-search"></i></button>
 
                                 <form action="#" aria-labelledby="searchDropdown" class="dropdown-menu">
                                     <input placeholder="Search..." type="text"> <button><i aria-hidden="true" class="fa fa-search"></i></button>
-                                </form>
+                                </form> -->
                             </div>
                         </div>
                     </div>
