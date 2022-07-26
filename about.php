@@ -60,7 +60,7 @@
 
                     <div class="col-md-8 col-sm-8 col-xs-12">
                     <div class="img-box">
-                        <img src="images/event_img/about-img.jpg" alt="">
+                        <img src="images/event_img/about-img.jpg" style="height:60rem" alt="">
                         
                     </div>
                         <div class="content">
