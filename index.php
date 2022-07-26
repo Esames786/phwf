@@ -342,13 +342,13 @@
                 <div class="gallery-carousel">
                     <article class="item">
                         <div class="inner-box">
-                            <img alt="" src="images/event_img/img-4.jpg">
+                            <img alt="" src="images/event_img/img-1.jpg">
 
                             <div class="overlay">
                                 <div class="top">
                                     <div class="box">
                                         <div class="content">
-                                            <a class="img-popup thm-btn" data-group="1" href="images/event_img/img-4.jpg">view project</a>
+                                            <a class="img-popup thm-btn" data-group="1" href="images/event_img/img-1.jpg">view project</a>
                                         </div>
                                     </div>
                                 </div>
@@ -365,36 +365,13 @@
 
                     <article class="item">
                         <div class="inner-box">
-                            <img alt="" src="images/event_img/img-7.jpg">
+                            <img alt="" src="images/event_img/img-6.jpg">
 
                             <div class="overlay">
                                 <div class="top">
                                     <div class="box">
                                         <div class="content">
-                                            <a class="img-popup thm-btn" data-group="1" href="images/event_img/img-7.jpg">view project</a>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-                                <div class="bottom">
-                                    <a href="single-gallery.html">
-                                    <h4>Clean poor urban areas to protect from pollution.</h4></a>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-
-
-                    <article class="item">
-                        <div class="inner-box">
-                            <img alt="" src="images/event_img/img-8.jpg">
-
-                            <div class="overlay">
-                                <div class="top">
-                                    <div class="box">
-                                        <div class="content">
-                                            <a class="img-popup thm-btn" data-group="1" href="images/event_img/img-8.jpg">view project</a>
+                                            <a class="img-popup thm-btn" data-group="1" href="images/event_img/img-3.jpg">view project</a>
                                         </div>
                                     </div>
                                 </div>
@@ -434,7 +411,30 @@
 
                     <article class="item">
                         <div class="inner-box">
-                            <img alt="" src="images/event_img/img-7.jpg">
+                            <img alt="" src="images/event_img/img-5.jpg">
+
+                            <div class="overlay">
+                                <div class="top">
+                                    <div class="box">
+                                        <div class="content">
+                                            <a class="img-popup thm-btn" data-group="1" href="images/event_img/img-5.jpg">view project</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="bottom">
+                                    <a href="single-gallery.html">
+                                    <h4>Clean poor urban areas to protect from pollution.</h4></a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+
+
+                    <article class="item">
+                        <div class="inner-box">
+                            <img alt="" src="images/event_img/img-6.jpg">
 
                             <div class="overlay">
                                 <div class="top">
@@ -457,13 +457,13 @@
 
                     <article class="item">
                         <div class="inner-box">
-                            <img alt="" src="images/event_img/img-8.jpg">
+                            <img alt="" src="images/event_img/img-7.jpg">
 
                             <div class="overlay">
                                 <div class="top">
                                     <div class="box">
                                         <div class="content">
-                                            <a class="img-popup thm-btn" data-group="1" href="images/event_img/img-8.jpg">view project</a>
+                                            <a class="img-popup thm-btn" data-group="1" href="images/event_img/img-7.jpg">view project</a>
                                         </div>
                                     </div>
                                 </div>
