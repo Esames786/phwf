@@ -252,27 +252,27 @@
         <div class="row filter-layout">
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
-                    <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
+                    <figure class="gallery_video"><img src="images/event_img/img-3.jpg" alt="" /><a href="images/event_video/video_1.mp4" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
                 </div>
             </article>
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
-                    <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
+                    <figure class="gallery_video"><img src="images/event_img/img-3.jpg" alt="" /><a href="images/event_video/video_1.mp4" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
                 </div>
             </article>
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
-                    <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
+                    <figure class="gallery_video"><img src="images/event_img/img-3.jpg" alt="" /><a href="images/event_video/video_1.mp4" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
                 </div>
             </article>
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
-                    <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
+                    <figure class="gallery_video"><img src="images/event_img/img-3.jpg" alt="" /><a href="images/event_video/video_1.mp4" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
                 </div>
             </article>
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
-                    <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
+                    <figure class="gallery_video"><img src="images/event_img/img-3.jpg" alt="" /><a href="images/event_video/video_1.mp4" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
                 </div>
             </article>
         </div>
