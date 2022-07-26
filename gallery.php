@@ -71,21 +71,7 @@
         <div class="row filter-layout">
 
             
-            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
-                <div class="item">
-                    <img src="images/event_img/img-1.jpg" alt="">
-                    <div class="overlay">
-                        <div class="top">
-                            <div class="box">
-                                <div class="content">
-                                    <a data-group="1" href="images/event_img/img-1.jpg" class="img-popup thm-btn">view project</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="bottom"><a href="single-gallery.html"><h4>Clean poor urban areas to protect <br>from pollution.</h4></a></div>
-                    </div>
-                </div>
-            </article> 
+             
            
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="item">
@@ -117,7 +103,21 @@
                     </div>
                 </div>
             </article>
-           
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item  ">
+                <div class="item">
+                    <img src="images/event_img/img-5.jpg" alt="">
+                    <div class="overlay">
+                        <div class="top">
+                            <div class="box">
+                                <div class="content">
+                                    <a data-group="1" href="images/event_img/img-5.jpg" class="img-popup thm-btn">view project</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bottom"><a href="single-gallery.html"><h4>Clean poor urban areas to protect <br>from pollution.</h4></a></div>
+                    </div>
+                </div>
+            </article>
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="item">
                     <img src="images/event_img/img-6.jpg" alt="">
@@ -224,7 +224,21 @@
                     </div>
                 </div>
             </article> 
-           
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
+                <div class="item">
+                    <img src="images/event_img/img-1.jpg" alt="">
+                    <div class="overlay">
+                        <div class="top">
+                            <div class="box">
+                                <div class="content">
+                                    <a data-group="1" href="images/event_img/img-1.jpg" class="img-popup thm-btn">view project</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bottom"><a href="single-gallery.html"><h4>Clean poor urban areas to protect <br>from pollution.</h4></a></div>
+                    </div>
+                </div>
+            </article>
 
 
 
