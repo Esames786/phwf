@@ -65,6 +65,8 @@
                         <h3>Latest Services</h3>
 </div>     
 <br>
+<br>
+<br>
 
         <div class="row filter-layout">
 
