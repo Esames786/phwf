@@ -261,7 +261,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
                 <video width="380" height="260" controls>
-                    <source src="images/event_video/video_2.mp4" type="video/mp4">
+                    <source src="images/event_video/video-2.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
                 </div>
@@ -269,7 +269,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
                 <video width="380" height="260" controls>
-                    <source src="images/event_video/video_3.mp4" type="video/mp4">
+                    <source src="images/event_video/video-3.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
                 </div>
@@ -277,7 +277,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
                 <video width="380" height="260" controls>
-                    <source src="images/event_video/video_4.mp4" type="video/mp4">
+                    <source src="images/event_video/video-4.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
                 </div>
@@ -285,7 +285,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
                 <video width="380" height="260" controls>
-                    <source src="images/event_video/video_5.mp4" type="video/mp4">
+                    <source src="images/event_video/video-5.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
                 </div>
@@ -293,7 +293,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
                 <video width="380" height="260" controls>
-                    <source src="images/event_video/video_6.mp4" type="video/mp4">
+                    <source src="images/event_video/video-6.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
                 </div>
@@ -301,7 +301,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
                 <video width="380" height="260" controls>
-                    <source src="images/event_video/video_7.mp4" type="video/mp4">
+                    <source src="images/event_video/video-7.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
                 </div>
@@ -309,7 +309,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
                 <video width="380" height="260" controls>
-                    <source src="images/event_video/video_8.mp4" type="video/mp4">
+                    <source src="images/event_video/video-8.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
                 </div>
@@ -317,7 +317,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
                 <video width="380" height="260" controls>
-                    <source src="images/event_video/video_9.mp4" type="video/mp4">
+                    <source src="images/event_video/video-9.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
                 </div>
