@@ -356,7 +356,7 @@
     <!-- Scroll Top  -->
     <button class="scroll-top tran3s color2_bg"><span class="fa fa-angle-up"></span></button>
     <!-- preloader  -->
-    <div class="preloader"></div>
+    <!-- <div class="preloader"></div> -->
     <?php include './donate.php' ?>
 
 
