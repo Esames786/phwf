@@ -60,7 +60,7 @@
 
                     <div class="col-md-8 col-sm-8 col-xs-12">
                     <div class="img-box">
-                        <img src="images/event/16.jpg" alt="">
+                        <img src="images/event_img/about-img.jpg" alt="">
                         
                     </div>
                         <div class="content">
