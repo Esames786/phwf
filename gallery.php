@@ -238,8 +238,11 @@
 
 
         </div>
-
+<br>
+<br>
+<br>
         <div class="section-title2">
+
                         <h3>Latest Videos</h3>
 </div>     
 <br>
@@ -251,15 +254,23 @@
                 <div class="video-image-box">
                     <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
                 </div>
+            </article>
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
                     <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
                 </div>
+            </article>
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
                     <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
                 </div>
+            </article>
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
                     <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
                 </div>
+            </article>
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
                     <figure class="gallery_video"><img src="images/cause/19.jpg" alt="" /><a href="https://www.youtube.com/watch?v=8QDazwTY2kM" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
                 </div>
