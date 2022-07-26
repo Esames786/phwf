@@ -42,7 +42,7 @@
                     <a href="index.php">Home</a>
                 </li>
                 <li>
-                    <a href="gallery-1.html">gallery</a>
+                    <a href="gallery-1.html">Contributions</a>
                 </li>
 
                 <li>
@@ -57,7 +57,9 @@
 </div>
 
 
-
+<div class="section-title2">
+                        <h3>Latest Services</h3>
+</div>
 <section class="gallery sec-padd style-2">
     <div class="container">
 
