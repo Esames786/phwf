@@ -342,13 +342,13 @@
                 <div class="gallery-carousel">
                     <article class="item">
                         <div class="inner-box">
-                            <img alt="" src="images/resource/3.jpg">
+                            <img alt="" src="images/event_img/img-4.jpg">
 
                             <div class="overlay">
                                 <div class="top">
                                     <div class="box">
                                         <div class="content">
-                                            <a class="img-popup thm-btn" data-group="1" href="images/resource/3.jpg">view project</a>
+                                            <a class="img-popup thm-btn" data-group="1" href="images/event_img/img-4.jpg">view project</a>
                                         </div>
                                     </div>
                                 </div>
@@ -365,13 +365,13 @@
 
                     <article class="item">
                         <div class="inner-box">
-                            <img alt="" src="images/resource/4.jpg">
+                            <img alt="" src="images/event_img/img-7.jpg">
 
                             <div class="overlay">
                                 <div class="top">
                                     <div class="box">
                                         <div class="content">
-                                            <a class="img-popup thm-btn" data-group="1" href="images/resource/4.jpg">view project</a>
+                                            <a class="img-popup thm-btn" data-group="1" href="images/event_img/img-7.jpg">view project</a>
                                         </div>
                                     </div>
                                 </div>
@@ -388,13 +388,13 @@
 
                     <article class="item">
                         <div class="inner-box">
-                            <img alt="" src="images/resource/5.jpg">
+                            <img alt="" src="images/event_img/img-8.jpg">
 
                             <div class="overlay">
                                 <div class="top">
                                     <div class="box">
                                         <div class="content">
-                                            <a class="img-popup thm-btn" data-group="1" href="images/resource/5.jpg">view project</a>
+                                            <a class="img-popup thm-btn" data-group="1" href="images/event_img/img-8.jpg">view project</a>
                                         </div>
                                     </div>
                                 </div>
@@ -411,13 +411,13 @@
 
                     <article class="item">
                         <div class="inner-box">
-                            <img alt="" src="images/resource/3.jpg">
+                            <img alt="" src="images/event_img/img-4.jpg">
 
                             <div class="overlay">
                                 <div class="top">
                                     <div class="box">
                                         <div class="content">
-                                            <a class="img-popup thm-btn" data-group="1" href="images/resource/3.jpg">view project</a>
+                                            <a class="img-popup thm-btn" data-group="1" href="images/event_img/img-4.jpg">view project</a>
                                         </div>
                                     </div>
                                 </div>
@@ -434,13 +434,13 @@
 
                     <article class="item">
                         <div class="inner-box">
-                            <img alt="" src="images/resource/4.jpg">
+                            <img alt="" src="images/event_img/img-7.jpg">
 
                             <div class="overlay">
                                 <div class="top">
                                     <div class="box">
                                         <div class="content">
-                                            <a class="img-popup thm-btn" data-group="1" href="images/resource/4.jpg">view project</a>
+                                            <a class="img-popup thm-btn" data-group="1" href="images/event_img/img-7.jpg">view project</a>
                                         </div>
                                     </div>
                                 </div>
@@ -457,13 +457,13 @@
 
                     <article class="item">
                         <div class="inner-box">
-                            <img alt="" src="images/resource/5.jpg">
+                            <img alt="" src="images/event_img/img-8.jpg">
 
                             <div class="overlay">
                                 <div class="top">
                                     <div class="box">
                                         <div class="content">
-                                            <a class="img-popup thm-btn" data-group="1" href="images/resource/5.jpg">view project</a>
+                                            <a class="img-popup thm-btn" data-group="1" href="images/event_img/img-8.jpg">view project</a>
                                         </div>
                                     </div>
                                 </div>
