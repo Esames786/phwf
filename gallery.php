@@ -30,7 +30,7 @@
 <div class="inner-banner has-base-color-overlay text-center" style="background: url(images/background/4.jpg);">
     <div class="container">
         <div class="box">
-            <h1>Gallery Grid View</h1>
+            <h1>Gallery</h1>
         </div>
     </div>
 </div>
@@ -46,12 +46,12 @@
                 </li>
 
                 <li>
-                   Gallery Grid View
+                   Gallery 
                 </li>
             </ul>
         </div>
         <div class="pull-right">
-            <a href="#" class="get-qoute"><i class="fa fa-arrow-circle-right"></i>Become a Volunteer</a>
+            <!-- <a href="#" class="get-qoute"><i class="fa fa-arrow-circle-right"></i>Become a Volunteer</a> -->
         </div>
     </div>
 </div>
@@ -61,30 +61,12 @@
 <section class="gallery sec-padd style-2">
     <div class="container">
 
-        <div class="center">
-            <ul class="post-filter list-inline">
-                <li class="active" data-filter=".filter-item">
-                    <span>View All</span>
-                </li>
-                <li data-filter=".humanity">
-                    <span>humanity</span>
-                </li>
-                <li data-filter=".Children">
-                    <span>Children</span>
-                </li>
-                <li data-filter=".Donate">
-                    <span>Donate</span>
-                </li>
-                <li data-filter=".Volunteer">
-                    <span>Volunteer</span>
-                </li>
-            </ul>
-        </div>            
+             
 
         <div class="row filter-layout">
 
             
-            <article class="col-md-4 col-sm-6 col-xs-12 filter-item Children">
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="item">
                     <img src="images/project/1.jpg" alt="">
                     <div class="overlay">
@@ -99,7 +81,7 @@
                     </div>
                 </div>
             </article> 
-            <article class="col-md-4 col-sm-6 col-xs-12 filter-item Donate">
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="item">
                     <img src="images/project/2.jpg" alt="">
                     <div class="overlay">
@@ -114,7 +96,7 @@
                     </div>
                 </div>
             </article> 
-            <article class="col-md-4 col-sm-6 col-xs-12 filter-item humanity">
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="item">
                     <img src="images/project/3.jpg" alt="">
                     <div class="overlay">
@@ -129,7 +111,7 @@
                     </div>
                 </div>
             </article>
-            <article class="col-md-4 col-sm-6 col-xs-12 filter-item Volunteer">
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="item">
                     <img src="images/project/4.jpg" alt="">
                     <div class="overlay">
@@ -144,7 +126,7 @@
                     </div>
                 </div>
             </article>
-            <article class="col-md-4 col-sm-6 col-xs-12 filter-item humanity Donate">
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item  ">
                 <div class="item">
                     <img src="images/project/5.jpg" alt="">
                     <div class="overlay">
@@ -159,7 +141,7 @@
                     </div>
                 </div>
             </article>
-            <article class="col-md-4 col-sm-6 col-xs-12 filter-item Children">
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="item">
                     <img src="images/project/6.jpg" alt="">
                     <div class="overlay">
@@ -174,7 +156,7 @@
                     </div>
                 </div>
             </article>
-            <article class="col-md-4 col-sm-6 col-xs-12 filter-item humanity">
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="item">
                     <img src="images/project/7.jpg" alt="">
                     <div class="overlay">
@@ -189,7 +171,7 @@
                     </div>
                 </div>
             </article> 
-            <article class="col-md-4 col-sm-6 col-xs-12 filter-item Donate">
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="item">
                     <img src="images/project/8.jpg" alt="">
                     <div class="overlay">
@@ -204,7 +186,7 @@
                     </div>
                 </div>
             </article> 
-            <article class="col-md-4 col-sm-6 col-xs-12 filter-item Volunteer">
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="item">
                     <img src="images/project/9.jpg" alt="">
                     <div class="overlay">
