@@ -236,7 +236,7 @@
             </article> 
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="item">
-                    <img src="images/event_img/img-9.jpg" alt="">
+                    <img src="images/event_img/img-12.jpg" alt="">
                     <div class="overlay">
                         <div class="top">
                             <div class="box">
