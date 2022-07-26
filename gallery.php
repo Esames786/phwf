@@ -64,6 +64,7 @@
     <div class="section-title2">
                         <h3>Latest Services</h3>
 </div>     
+<br>
 
         <div class="row filter-layout">
 
