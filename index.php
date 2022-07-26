@@ -488,7 +488,7 @@
                     </div>
             <article class="item col-md-6 col-sm- col-xs-12">
                 <figure class="img-box">
-                    <img style="width:100%;height:40rem" src="images/cause/1.jpg" alt="">
+                    <img style="width:100%;height:40rem" src="images/event_img/ambulance-img.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 
@@ -505,24 +505,7 @@
             </article>
             <article class="item col-md-6 col-sm- col-xs-12">
                 <figure class="img-box">
-                    <img style="width:100%;height:40rem" src="images/cause/2.jpg" alt="">
-                    <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
-                </figure>
-                
-                <div class="content">
-                    
-                    <div class="text center">
-                        <a href="#"><h4 class="title">WATER HAND PUMPS</h4></a>
-                        <p>In internal Sindh We started number of projects in which this projects is widely spread. The need of this project was the shortage of water in internal Sindh. This step was taken on behalf of letter of the person residing the same location. He expressed the need of water tankers and water hand pumps in the village. So we decided to move further step and did our best. We provided many water hand pumps and controlled the shortage of water. We further believe that this step which we took to overcome the shortage will continue and more work will be performed in this sector.</p>
-                    </div>
-                   
-                    
-                </div>                        
-                        
-            </article>
-            <article class="item col-md-6 col-sm- col-xs-12">
-                <figure class="img-box">
-                    <img style="width:100%;height:40rem" src="images/cause/3.jpg" alt="">
+                    <img style="width:100%;height:40rem" src="images/event_img/aftra-img.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 
@@ -539,7 +522,25 @@
             </article>
             <article class="item col-md-6 col-sm- col-xs-12">
                 <figure class="img-box">
-                    <img style="width:100%;height:40rem" src="images/cause/4.jpg" alt="">
+                    <img style="width:100%;height:40rem" src="images/event_img/img_handpump.jpg" alt="">
+                    <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
+                </figure>
+                
+                <div class="content">
+                    
+                    <div class="text center">
+                        <a href="#"><h4 class="title">WATER HAND PUMPS</h4></a>
+                        <p>In internal Sindh We started number of projects in which this projects is widely spread. The need of this project was the shortage of water in internal Sindh. This step was taken on behalf of letter of the person residing the same location. He expressed the need of water tankers and water hand pumps in the village. So we decided to move further step and did our best. We provided many water hand pumps and controlled the shortage of water. We further believe that this step which we took to overcome the shortage will continue and more work will be performed in this sector.</p>
+                    </div>
+                   
+                    
+                </div>                        
+                        
+            </article>
+           
+            <article class="item col-md-6 col-sm- col-xs-12">
+                <figure class="img-box">
+                    <img style="width:100%;height:40rem" src="images/event_img/hospital-img.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 
@@ -558,7 +559,7 @@
             </article>
             <article class="item col-md-6 col-sm- col-xs-12">
                 <figure class="img-box">
-                    <img style="width:100%;height:40rem" src="images/cause/5.jpg" alt="">
+                    <img style="width:100%;height:40rem" src="images/event_img/rasan-img.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
                 
