@@ -252,7 +252,7 @@
         <div class="row filter-layout">
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
-                <video width="320" height="240" controls>
+                <video width="380" height="260" controls>
                     <source src="images/event_video/video_1.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
@@ -260,24 +260,69 @@
             </article>
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
-                    <figure class="gallery_video"><img src="images/event_img/img-3.jpg" alt="" /><a href="images/event_video/video_1.mp4" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
+                <video width="380" height="260" controls>
+                    <source src="images/event_video/video_2.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
                 </div>
             </article>
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
-                    <figure class="gallery_video"><img src="images/event_img/img-3.jpg" alt="" /><a href="images/event_video/video_1.mp4" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
+                <video width="380" height="260" controls>
+                    <source src="images/event_video/video_3.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
                 </div>
             </article>
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
-                    <figure class="gallery_video"><img src="images/event_img/img-3.jpg" alt="" /><a href="images/event_video/video_1.mp4" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
+                <video width="380" height="260" controls>
+                    <source src="images/event_video/video_4.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
                 </div>
             </article>
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
-                    <figure class="gallery_video"><img src="images/event_img/img-3.jpg" alt="" /><a href="images/event_video/video_1.mp4" class=""><span class="overlay-link icon-arrows4"></span></a></figure>   
+                <video width="380" height="260" controls>
+                    <source src="images/event_video/video_5.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
                 </div>
             </article>
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
+                <div class="video-image-box">
+                <video width="380" height="260" controls>
+                    <source src="images/event_video/video_6.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                </div>
+            </article>
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
+                <div class="video-image-box">
+                <video width="380" height="260" controls>
+                    <source src="images/event_video/video_7.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                </div>
+            </article>
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
+                <div class="video-image-box">
+                <video width="380" height="260" controls>
+                    <source src="images/event_video/video_8.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                </div>
+            </article>
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
+                <div class="video-image-box">
+                <video width="380" height="260" controls>
+                    <source src="images/event_video/video_9.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                </div>
+            </article>
+   
         </div>
         <ul class="page_pagination center">
             <li><a href="#" class="tran3s"><i class="fa fa-angle-left" aria-hidden="true"></i></a></li>
