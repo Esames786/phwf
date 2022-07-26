@@ -24,7 +24,7 @@
             <div class="rev_slider" data-version="5.0" id="slider1">
                 <ul>
                     <li data-transition="fade">
-                        <img alt="" data-bgfit="cover" data-bgparallax="1" data-bgposition="top center" data-bgrepeat="no-repeat" height="888" src="images/slider/1.jpg" width="1920">
+                        <img alt="" data-bgfit="cover" data-bgparallax="1" data-bgposition="top center" data-bgrepeat="no-repeat" height="888" src="images/event_img/banner-1.jpg" width="1920">
 
                         <div class="tp-caption tp-resizeme" data-hoffset="15" data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="700" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-voffset="350" data-x="left" data-y="top">
                             <div class="slide-content-box">
@@ -57,7 +57,7 @@
 
 
                     <li data-transition="fade">
-                        <img alt="" data-bgfit="cover" data-bgparallax="1" data-bgposition="top center" data-bgrepeat="no-repeat" height="580" src="images/slider/2.jpg" width="1920">
+                        <img alt="" data-bgfit="cover" data-bgparallax="1" data-bgposition="top center" data-bgrepeat="no-repeat" height="580" src="images/event_img/banner-2.jpg" width="1920">
 
                         <div class="tp-caption tp-resizeme" data-hoffset="" data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="700" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-voffset="370" data-x="center" data-y="top">
                             <div class="slide-content-box center">
@@ -90,7 +90,7 @@
 
 
                     <li data-transition="fade">
-                        <img alt="" data-bgfit="cover" data-bgparallax="1" data-bgposition="top center" data-bgrepeat="no-repeat" height="580" src="images/slider/3.jpg" width="1920">
+                        <img alt="" data-bgfit="cover" data-bgparallax="1" data-bgposition="top center" data-bgrepeat="no-repeat" height="580" src="images/event_img/banner-3.jpg" width="1920">
 
                         <div class="tp-caption tp-resizeme" data-hoffset="200" data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="700" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-voffset="340" data-x="center" data-y="top">
                             <div class="slide-content-box">
