@@ -522,25 +522,6 @@
             </article>
             <article class="item col-md-6 col-sm- col-xs-12">
                 <figure class="img-box">
-                    <img style="width:100%;height:40rem" src="images/event_img/aftar-drive.jpg" alt="">
-                    <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
-                </figure>
-                
-                <div class="content">
-                    
-                    <div class="text center">
-                        <a href="#"><h4 class="title">An Aftar Drive</h4></a>
-                        <p>In the holy month of Ramadan we are always blessed by Almighty Allah. We as an organization did the Aftrari Set Up for the whole month of Ramadan. By this act we got so much happened and our heart was full of joy.</p>
-                    </div>
-                   
-                    
-                </div>                        
-                        
-            </article>
-          
-           
-            <article class="item col-md-6 col-sm- col-xs-12">
-                <figure class="img-box">
                     <img style="width:100%;height:40rem" src="images/event_img/hospital-img.jpg" alt="">
                     <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
                 </figure>
@@ -572,6 +553,23 @@
 We need to take care of the basic facilities of poor families So that they and their children can eat full of stomach. If they will eat full then they can perform well.</p>               
                     </div>
                 </div>                          
+            </article>
+            <article class="item col-md-6 col-sm- col-xs-12">
+                <figure class="img-box">
+                    <img style="width:100%;height:40rem" src="images/event_img/aftar-drive.jpg" alt="">
+                    <div class="overlay"><div class="inner-box"><div class="content-box"><button class="thm-btn style-2 donate-box-btn">donate now</button></div></div></div>
+                </figure>
+                
+                <div class="content">
+                    
+                    <div class="text center">
+                        <a href="#"><h4 class="title">An Aftar Drive</h4></a>
+                        <p>In the holy month of Ramadan we are always blessed by Almighty Allah. We as an organization did the Aftrari Set Up for the whole month of Ramadan. By this act we got so much happened and our heart was full of joy.</p>
+                    </div>
+                   
+                    
+                </div>                        
+                        
             </article>
         </div>
         <ul class="page_pagination center">
