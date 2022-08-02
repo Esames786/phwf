@@ -202,4 +202,14 @@ class CustomerController extends Controller
 
     }
 
+    public function employee_form($id)
+    {
+
+        $id = base64_decode($id);
+        $data = Customer::find($id);
+
+        return view('main.customer.phw_form_html', compact('data'));
+
+    }
+
 }

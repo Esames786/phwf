@@ -69,6 +69,7 @@ Route::group(['middleware' => ['auth:web']], function () {
     Route::get('/reactive_customer/{id}', 'Customer\CustomerController@reactive_customer');
     Route::get('/view_doc/{id}', 'Customer\CustomerController@view_doc')->name('view_doc');
     Route::get('/employee_card/{id}', 'Customer\CustomerController@employee_card');
+    Route::get('/employee_form/{id}', 'Customer\CustomerController@employee_form');
 
 
 //

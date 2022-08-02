@@ -78,7 +78,8 @@
                                         <td>{{ $val->contact }}</td>
                                         <td>
                                             <a class="dropdown-item" href="{{route('customer.edit',$val->id)}}">Edit</a>
-                                            <a class="dropdown-item" href="{{url('employee_card',base64_encode($val->id))}}">Print</a>
+                                            <a class="dropdown-item" href="{{url('employee_card',base64_encode($val->id))}}">Print Card</a>
+                                            <a class="dropdown-item" href="{{url('employee_form',base64_encode($val->id))}}">Print Form</a>
                                             <a class="dropdown-item" href="{{route('view_doc',$val->id)}}">View Document</a>
                                         </td>
                                     </tr>
