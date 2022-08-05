@@ -115,7 +115,7 @@
                         <p>Anyone can contact us by the mentioned address and social media platform. We will be happy to hear your problems. You can also leave us a message via message box. One of our team members will contact you shortly. We are present on different social media platform like Facebook, Twitter, Whatsapp, LinkedIn and Instagram. </p>
                     </div>
                     <ul class="contact-info">
-                        <li><i class="icon-phone"></i><span> Phone:</span>+92 300 9262041</li>
+                        <li><i class="icon-phone"></i><span> Phone:</span>+923-111-733-331</li>
                         <li><i class="icon-back"></i><span>Email:</span> info@phwfoundation.org</li>
                     </ul>
                     <ul class="social-icon">
