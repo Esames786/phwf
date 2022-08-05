@@ -12,7 +12,7 @@
                         </div>
 
 
-                        <h4>At initial stage we are taking donations in one bank that is ALFALAH BANK. We request all to join hands with the PHW FOUNDATION for the noble cause.</h4>
+                        <h4>At initial stage we are taking donations in one bank that is Standard Chartered Bank. We request all to join hands with the PHW FOUNDATION for the noble cause.</h4>
   
 
                         <form action="#" class="donate-form default-form">
@@ -20,8 +20,9 @@
 
 
                             <h4>You can send your donations by the below mentioned bank and also inform us that what type of particular donation you are sending. </h4>
-                            <h3>Bank Details: Bank Alfalah</h3>
-                            <h3>0092-73783682638-2</h3>
+                            <h3>Bank Details: Standard Chartered Bank </h3>
+                            <h3>ACCOUNT NUMBER: 01728416701</h3>
+                            <h3>IBAN: PK79SCBL0000001728416701</h3>
 
                        
                         </form>
