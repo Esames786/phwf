@@ -96,7 +96,7 @@
                                            
 
 
-                                            <li><i class="icon-phone"></i> <span>Phone:</span> +92-302-28715563</li>
+                                            <li><i class="icon-phone"></i> <span>Phone:</span>+92 300 9262041</li>
 
 
                                             <li><i class="icon-back"></i><span>Email:</span> info@phwfoundation.org</li>
