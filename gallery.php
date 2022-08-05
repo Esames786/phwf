@@ -116,7 +116,7 @@
             </article>
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="item">
-                    <img src="images/event_img/add-4.jpeg" alt="">
+                    <img src="images/event_img/add-4.jpeg" style="height: 277px;" alt="">
                     <div class="overlay">
                         <div class="top">
                             <div class="box">
