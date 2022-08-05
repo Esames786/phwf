@@ -10,7 +10,7 @@
 
                     <div class="right-column float_right">
                         <ul class="list_inline contact-info">
-                            <li><span class="icon-phone"></span>Phone: +92-302-28715563</li>
+                            <li><span class="icon-phone"></span>Phone: +92 300 9262041</li>
 
 
                             <li><span class="icon-back"></span>Email:info@phwfoundation.org</li>
