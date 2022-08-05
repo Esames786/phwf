@@ -67,7 +67,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12" style="text-align: center">
                 <div class="single-team-member">
                     <figure class="img-box">
-                        <a href="#"><img src="images/team/1.jpg" alt=""></a>
+                        <a href="#"><img src="images/team/img-1.jpg" alt=""></a>
                         <div class="overlay">
                             <div class="inner-box">
                                 <ul class="social">
@@ -89,7 +89,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12" style="text-align: center">
                 <div class="single-team-member">
                     <figure class="img-box">
-                        <a href="#"><img src="images/team/2.jpg" alt=""></a>
+                        <a href="#"><img src="images/team/img-1.jpg" alt=""></a>
                         <div class="overlay">
                             <div class="inner-box">
                                 <ul class="social">
@@ -111,7 +111,7 @@
             <article class="col-md-4 col-sm-6 col-xs-12" style="text-align: center">
                 <div class="single-team-member">
                     <figure class="img-box">
-                        <a href="#"><img src="images/team/3.jpg" alt=""></a>
+                        <a href="#"><img src="images/team/img-1.jpg" alt=""></a>
                         <div class="overlay">
                             <div class="inner-box">
                                 <ul class="social">
