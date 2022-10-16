@@ -259,75 +259,75 @@
                     </article>
 
 
-                    <article class="item col-md-4 col-sm-4 col-xs-12">
-                        <div class="inner-box">
-                            <div class="img-box">
-                                <img alt="" src="images/team/img-1.jpg">
-
-                                <div class="overlay3">
-                                    <ul class="social-icon">
-                                        <li>
-                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                        </li>
-
-
-                                        <li>
-                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                        </li>
-
-
-                                        <li>
-                                            <a href="#"><i class="fa fa-google-plus"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="author center">
-                            <h4>GENERAL SECRETERY</h4>
-
-
-                            <p>GENERAL SECRETERY</p>
-                        </div>
-                    </article>
-
-
-                    <article class="item col-md-4 col-sm-4 col-xs-12">
-                        <div class="inner-box">
-                            <div class="img-box">
-                                <img alt="" src="images/team/img-1.jpg">
-
-                                <div class="overlay3">
-                                    <ul class="social-icon">
-                                        <li>
-                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                        </li>
-
-
-                                        <li>
-                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                        </li>
-
-
-                                        <li>
-                                            <a href="#"><i class="fa fa-google-plus"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="author center">
-                            <h4>FINACE SECRETERY </h4>
-
-
-                            <p>FINACE SECRETERY</p>
-                        </div>
-                    </article>
-                </div>
+<!--                    <article class="item col-md-4 col-sm-4 col-xs-12">-->
+<!--                        <div class="inner-box">-->
+<!--                            <div class="img-box">-->
+<!--                                <img alt="" src="images/team/img-1.jpg">-->
+<!---->
+<!--                                <div class="overlay3">-->
+<!--                                    <ul class="social-icon">-->
+<!--                                        <li>-->
+<!--                                            <a href="#"><i class="fa fa-facebook"></i></a>-->
+<!--                                        </li>-->
+<!---->
+<!---->
+<!--                                        <li>-->
+<!--                                            <a href="#"><i class="fa fa-twitter"></i></a>-->
+<!--                                        </li>-->
+<!---->
+<!---->
+<!--                                        <li>-->
+<!--                                            <a href="#"><i class="fa fa-google-plus"></i></a>-->
+<!--                                        </li>-->
+<!--                                    </ul>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!---->
+<!---->
+<!--                        <div class="author center">-->
+<!--                            <h4>GENERAL SECRETERY</h4>-->
+<!---->
+<!---->
+<!--                            <p>GENERAL SECRETERY</p>-->
+<!--                        </div>-->
+<!--                    </article>-->
+<!---->
+<!---->
+<!--                    <article class="item col-md-4 col-sm-4 col-xs-12">-->
+<!--                        <div class="inner-box">-->
+<!--                            <div class="img-box">-->
+<!--                                <img alt="" src="images/team/img-1.jpg">-->
+<!---->
+<!--                                <div class="overlay3">-->
+<!--                                    <ul class="social-icon">-->
+<!--                                        <li>-->
+<!--                                            <a href="#"><i class="fa fa-facebook"></i></a>-->
+<!--                                        </li>-->
+<!---->
+<!---->
+<!--                                        <li>-->
+<!--                                            <a href="#"><i class="fa fa-twitter"></i></a>-->
+<!--                                        </li>-->
+<!---->
+<!---->
+<!--                                        <li>-->
+<!--                                            <a href="#"><i class="fa fa-google-plus"></i></a>-->
+<!--                                        </li>-->
+<!--                                    </ul>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!---->
+<!---->
+<!--                        <div class="author center">-->
+<!--                            <h4>FINACE SECRETERY </h4>-->
+<!---->
+<!---->
+<!--                            <p>FINACE SECRETERY</p>-->
+<!--                        </div>-->
+<!--                    </article>-->
+<!--                </div>-->
             </div>
         </section>
 
@@ -342,7 +342,7 @@
                 <div class="gallery-carousel">
                     <article class="item">
                         <div class="inner-box">
-                            <img alt="" src="images/event_img/img-1.jpg">
+                            <img alt="" src="WhatsApp%20Video%202022-10-16%20at%208.36.59%20PM.mp4">
 
                             <div class="overlay">
                                 <div class="top">
