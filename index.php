@@ -130,7 +130,7 @@
             <div class="container">
                 <div class="section-title center">
                     <h2>Welcome to <span class="thm-color">PHW FOUNDATION</span></h2>
-                    <p>It was established in 2014 by MR Salman JAwaid Memon , foreign qualified Bachelor and Master’s degree holder from Australia in  Pakistani port city of Karachi; The PHW is the organization that serves the humanity selflessly  day and night. Mr Salman himself monitors and performs the activities of the organization. </p>
+                    <p>It was established in 2014 by MR Salman Jawaid Memon , foreign qualified Bachelor and Master’s degree holder from Australia in  Pakistani port city of Karachi; The PHW is the organization that serves the humanity selflessly  day and night. Mr Salman himself monitors and performs the activities of the organization. </p>
                     <p>We are all the human beings and have created for the purpose to help each other’s.  It is very famous proverbs that GOD HELPS THOSE WHO HELP THEMSELVES. Those who take decision of doing any good deed Almighty Allah helps them in a way that they cannot even imagine and beyond their thinking. We must all think only about the well-being of the society and solve the problems of society and God will care of ours.</p>                        </div>
                 
                 </div>
@@ -227,7 +227,7 @@
                     <article class="item col-md-4 col-sm-4 col-xs-12">
                         <div class="inner-box">
                             <div class="img-box">
-                                <img alt="" src="images/team/img-1.jpg">
+                                <img alt="" src="282345242_5098995496857802_4379010954128851540_n.jpg">
 
                                 <div class="overlay3">
                                     <ul class="social-icon">
