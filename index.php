@@ -341,14 +341,7 @@
 
                 <div class="gallery-carousel">
 
-                    <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
-                        <div class="video-image-box">
-                            <video width="380" height="260" controls>
-                                <source src="WhatsApp%20Video%202022-10-16%20at%208.36.59%20PM.mp4" type="video/mp4">
-                                Your browser does not support the video tag.
-                            </video>
-                        </div>
-                    </article>
+
                     <article class="item">
                         <div class="inner-box">
                             <img alt="" src="images/event_img/img-1.jpg">
@@ -368,6 +361,15 @@
                                     <h4>Clean poor urban areas to protect from pollution.</h4></a>
                                 </div>
                             </div>
+                        </div>
+                    </article>
+
+                    <article class="item">
+                        <div class="video-image-box">
+                            <video width="380" height="260" controls>
+                                <source src="WhatsApp%20Video%202022-10-16%20at%208.36.59%20PM.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
                         </div>
                     </article>
 
