@@ -224,7 +224,7 @@
 
 
                 <div class="row">
-                    <article class="item col-md-4 col-sm-4 col-xs-12">
+                    <article class="item col-md-4 col-sm-4 col-xs-12 col-md-offset-4">
                         <div class="inner-box">
                             <div class="img-box">
                                 <img alt="" src="282345242_5098995496857802_4379010954128851540_n.jpg">
