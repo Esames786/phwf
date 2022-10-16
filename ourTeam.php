@@ -64,10 +64,10 @@
             <h2><span class="thm-color">Our Team</span></h2>
         </div>  
         <div class="row">
-            <article class="col-md-4 col-sm-6 col-xs-12" style="text-align: center">
+            <article class="col-md-4 col-sm-6 col-xs-12 col-md-offset-4" style="text-align: center">
                 <div class="single-team-member">
                     <figure class="img-box">
-                        <a href="#"><img src="images/team/img-1.jpg" alt=""></a>
+                        <a href="#"><img src="282345242_5098995496857802_4379010954128851540_n.jpg" alt=""></a>
                         <div class="overlay">
                             <div class="inner-box">
                                 <ul class="social">
@@ -86,50 +86,50 @@
                         
                 </div>
             </article>
-            <article class="col-md-4 col-sm-6 col-xs-12" style="text-align: center">
-                <div class="single-team-member">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/img-1.jpg" alt=""></a>
-                        <div class="overlay">
-                            <div class="inner-box">
-                                <ul class="social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                </ul>
-                            </div>
-                                
-                        </div>
-                    </figure>
-                    <div class="author-info center">
-                        <a href="#"><h4>GENERAL SECRETERY</h4></a>
-                        <p>GENERAL SECRETERY</p>
-                    </div>
-                        
-                </div>
-            </article>
-            <article class="col-md-4 col-sm-6 col-xs-12" style="text-align: center">
-                <div class="single-team-member">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/img-1.jpg" alt=""></a>
-                        <div class="overlay">
-                            <div class="inner-box">
-                                <ul class="social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                </ul>
-                            </div>
-                                
-                        </div>
-                    </figure>
-                    <div class="author-info center">
-                        <a href="#"><h4>FINACE SECRETERY</h4></a>
-                        <p>FINACE SECRETERY </p>
-                    </div>
-                        
-                </div>
-            </article>
+<!--            <article class="col-md-4 col-sm-6 col-xs-12" style="text-align: center">-->
+<!--                <div class="single-team-member">-->
+<!--                    <figure class="img-box">-->
+<!--                        <a href="#"><img src="images/team/img-1.jpg" alt=""></a>-->
+<!--                        <div class="overlay">-->
+<!--                            <div class="inner-box">-->
+<!--                                <ul class="social">-->
+<!--                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
+<!--                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>-->
+<!--                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>-->
+<!--                                </ul>-->
+<!--                            </div>-->
+<!--                                -->
+<!--                        </div>-->
+<!--                    </figure>-->
+<!--                    <div class="author-info center">-->
+<!--                        <a href="#"><h4>GENERAL SECRETERY</h4></a>-->
+<!--                        <p>GENERAL SECRETERY</p>-->
+<!--                    </div>-->
+<!--                        -->
+<!--                </div>-->
+<!--            </article>-->
+<!--            <article class="col-md-4 col-sm-6 col-xs-12" style="text-align: center">-->
+<!--                <div class="single-team-member">-->
+<!--                    <figure class="img-box">-->
+<!--                        <a href="#"><img src="images/team/img-1.jpg" alt=""></a>-->
+<!--                        <div class="overlay">-->
+<!--                            <div class="inner-box">-->
+<!--                                <ul class="social">-->
+<!--                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
+<!--                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>-->
+<!--                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>-->
+<!--                                </ul>-->
+<!--                            </div>-->
+<!--                                -->
+<!--                        </div>-->
+<!--                    </figure>-->
+<!--                    <div class="author-info center">-->
+<!--                        <a href="#"><h4>FINACE SECRETERY</h4></a>-->
+<!--                        <p>FINACE SECRETERY </p>-->
+<!--                    </div>-->
+<!--                        -->
+<!--                </div>-->
+<!--            </article>-->
            
                 
         </div>
