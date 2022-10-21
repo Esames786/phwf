@@ -326,6 +326,15 @@
 <br>
 
         <div class="row filter-layout">
+
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
+                <div class="video-image-box">
+                    <video width="380" height="260" controls>
+                        <source src="WhatsApp%20Video%202022-10-16%20at%208.36.59%20PM.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+            </article>
             <article class="col-md-4 col-sm-6 col-xs-12 filter-item ">
                 <div class="video-image-box">
                 <video width="380" height="260" controls>
