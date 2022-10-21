@@ -366,16 +366,6 @@
 
                     <article class="item">
                         <div class="inner-box">
-                            <video width="380" height="260" controls>
-                                <source src="WhatsApp%20Video%202022-10-16%20at%208.36.59%20PM.mp4" type="video/mp4">
-                                Your browser does not support the video tag.
-                            </video>
-                        </div>
-                    </article>
-
-
-                    <article class="item">
-                        <div class="inner-box">
                             <img alt="" src="images/event_img/img-6.jpg">
 
                             <div class="overlay">
