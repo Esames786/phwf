@@ -69,6 +69,17 @@
 </div>
 <br>
                             <div class="text">
+                                <p>
+                                    PHW Foundation was established in 2014
+                                    by Mr. Salman Jawaid Memon, foreign
+                                    qualified Bachelor and Master’s degree
+                                    holder from Australia in Pakistani port city
+                                    of Karachi; The PHW is the organization
+                                    that serves the humanity selflessly day and
+                                    night. Mr. Salman himself monitors and
+                                    performs the activities of the organization.
+
+                                </p>
                                 <p>“We believe in serving the humanity regardless of the caste, color, language and religion. We take our mission our duty.”</p>
                             </div>
 
