@@ -78,9 +78,9 @@
                                     that serves the humanity selflessly day and
                                     night. Mr. Salman himself monitors and
                                     performs the activities of the organization.
-
+                                    “We believe in serving the humanity regardless of the caste, color, language and religion. We take our mission our duty.”
                                 </p>
-                                <p>“We believe in serving the humanity regardless of the caste, color, language and religion. We take our mission our duty.”</p>
+
                             </div>
 
 
